@@ -1,0 +1,2001 @@
+Age,Salary,Education_Level,Years_of_Experience,Department,Location
+56,86788,Master,7,Sales,Chicago
+69,107879,PhD,7,HR,Los Angeles
+46,63827,Bachelor,5,Marketing,New York
+32,30655,PhD,13,HR,San Francisco
+60,69859,High School,31,Sales,Austin
+25,78625,Bachelor,34,Engineering,New York
+38,77098,High School,9,HR,Los Angeles
+56,40251,PhD,2,Marketing,Los Angeles
+36,25526,High School,11,Marketing,San Francisco
+40,93760,PhD,30,Engineering,New York
+28,72837,High School,28,HR,Chicago
+28,36536,PhD,4,Sales,New York
+41,53541,Master,24,Engineering,Los Angeles
+53,104083,High School,30,HR,San Francisco
+57,76027,High School,20,Finance,San Francisco
+41,59531,Master,19,Marketing,Chicago
+20,33712,Master,38,Sales,San Francisco
+39,90455,High School,21,Sales,San Francisco
+19,99744,Master,3,Sales,San Francisco
+41,30109,Bachelor,12,Marketing,San Francisco
+61,74268,PhD,19,HR,San Francisco
+47,79615,PhD,12,Engineering,Los Angeles
+55,107503,PhD,16,HR,New York
+19,54759,Bachelor,35,Engineering,Austin
+38,110708,Master,32,Sales,San Francisco
+50,85112,Master,0,HR,Austin
+29,51589,High School,14,Sales,Austin
+39,55015,Master,12,Finance,Los Angeles
+61,54009,High School,16,Sales,San Francisco
+42,108309,Bachelor,23,Sales,Austin
+66,87046,PhD,7,Engineering,San Francisco
+44,51143,PhD,26,Finance,Chicago
+59,31154,PhD,22,Sales,Chicago
+45,46804,Master,7,Sales,Chicago
+33,66688,High School,7,Finance,Austin
+32,89288,High School,25,Finance,Chicago
+64,76195,Bachelor,12,HR,Los Angeles
+68,45581,Master,38,Engineering,Los Angeles
+61,77648,Bachelor,36,Finance,Austin
+69,55087,High School,27,Finance,San Francisco
+20,74930,High School,24,Marketing,New York
+54,57981,PhD,15,Finance,San Francisco
+68,94298,Master,1,Engineering,San Francisco
+24,71167,High School,17,Sales,San Francisco
+38,100304,PhD,16,Sales,San Francisco
+26,68408,Master,29,Sales,New York
+56,64499,Bachelor,38,Sales,Chicago
+35,77269,Master,12,Marketing,San Francisco
+21,63559,Master,31,Finance,Los Angeles
+42,99319,High School,28,Sales,Austin
+31,73787,High School,29,HR,Austin
+67,60488,Master,17,Sales,Los Angeles
+26,99441,High School,12,Finance,San Francisco
+43,99663,High School,20,Sales,New York
+19,47431,High School,29,Marketing,Chicago
+37,86681,PhD,20,Engineering,Austin
+45,88483,PhD,16,Engineering,Chicago
+64,74153,Master,39,Finance,New York
+24,31368,High School,18,Engineering,Austin
+61,52424,PhD,14,Engineering,Chicago
+25,70004,Master,8,HR,New York
+64,108869,High School,9,Finance,Chicago
+52,113652,Bachelor,30,Finance,San Francisco
+31,81985,High School,22,Engineering,New York
+34,75069,High School,29,Engineering,Chicago
+53,77326,PhD,32,Engineering,San Francisco
+67,106061,Master,8,Marketing,San Francisco
+57,48398,Master,0,Sales,New York
+21,75861,PhD,34,Marketing,Los Angeles
+19,100897,High School,10,Finance,Austin
+23,106905,Bachelor,33,HR,New York
+59,93577,High School,15,Sales,San Francisco
+21,90641,High School,8,HR,San Francisco
+46,34078,Bachelor,31,Finance,New York
+35,50003,PhD,14,Finance,Los Angeles
+43,87768,Master,11,HR,Austin
+61,76047,PhD,32,HR,Chicago
+51,96626,PhD,13,HR,New York
+27,82660,High School,7,Finance,Austin
+53,74786,Master,7,Engineering,Austin
+31,26925,Master,26,HR,San Francisco
+48,108976,PhD,11,Sales,Chicago
+65,51015,Bachelor,0,Finance,New York
+32,58320,PhD,39,Marketing,San Francisco
+25,89881,Bachelor,10,Marketing,San Francisco
+31,115827,Master,38,Sales,Los Angeles
+40,51289,PhD,30,Engineering,Austin
+57,28389,High School,16,HR,New York
+38,50683,PhD,32,Finance,New York
+33,38629,Master,31,HR,New York
+62,86550,High School,28,Finance,San Francisco
+35,49826,High School,20,Marketing,Los Angeles
+64,51630,Bachelor,20,HR,Chicago
+41,71163,High School,39,Sales,San Francisco
+43,91435,High School,22,Engineering,Chicago
+42,36653,PhD,5,Sales,Los Angeles
+62,52961,Master,21,Engineering,Austin
+58,106941,Bachelor,37,HR,New York
+46,99137,PhD,36,HR,Chicago
+32,58662,High School,7,Engineering,San Francisco
+62,81446,High School,34,Marketing,Chicago
+18,46288,Bachelor,10,Finance,Austin
+42,61877,Master,23,Sales,New York
+24,40313,Bachelor,20,Sales,Chicago
+26,105885,PhD,1,Sales,Austin
+41,97715,Bachelor,39,HR,San Francisco
+18,35326,High School,18,Sales,Los Angeles
+61,26560,PhD,38,Finance,San Francisco
+25,104148,High School,27,Finance,New York
+41,108186,Master,16,Engineering,San Francisco
+28,51745,High School,5,HR,San Francisco
+68,56890,High School,18,Finance,San Francisco
+34,45022,Bachelor,37,Marketing,San Francisco
+25,77579,High School,27,HR,New York
+52,95316,PhD,1,HR,Austin
+52,108847,PhD,37,Finance,Chicago
+50,53380,Master,36,Marketing,Los Angeles
+22,27356,PhD,3,Engineering,Chicago
+59,95326,Bachelor,21,Finance,Chicago
+56,117447,Master,25,Marketing,Los Angeles
+58,114899,PhD,35,HR,New York
+45,45049,Bachelor,12,Marketing,Los Angeles
+24,100717,PhD,31,HR,New York
+26,41082,PhD,16,Finance,Chicago
+25,25661,High School,35,Finance,New York
+29,62412,PhD,18,Sales,Austin
+51,27920,PhD,34,Sales,Los Angeles
+50,116194,Bachelor,39,Sales,Austin
+65,85315,Bachelor,27,Finance,Chicago
+40,104561,High School,0,Engineering,Los Angeles
+41,33946,PhD,17,Finance,Chicago
+54,119242,High School,39,Marketing,Austin
+52,70500,PhD,32,Finance,Chicago
+61,41309,Master,11,Finance,Los Angeles
+57,80230,Master,7,HR,Los Angeles
+39,55027,High School,23,HR,Chicago
+44,97541,High School,15,HR,Los Angeles
+52,84321,High School,3,Finance,Los Angeles
+18,25956,Bachelor,37,Engineering,Chicago
+52,99131,Bachelor,26,Marketing,Austin
+54,72908,Bachelor,8,Marketing,Los Angeles
+64,103339,High School,15,Engineering,Los Angeles
+31,50963,PhD,11,Engineering,Los Angeles
+20,64443,Master,30,Marketing,Los Angeles
+18,64063,High School,23,Sales,Chicago
+22,105818,Bachelor,13,HR,Austin
+43,29703,Bachelor,24,HR,Austin
+31,90128,High School,33,Marketing,New York
+56,97099,High School,2,Engineering,Los Angeles
+44,50849,Bachelor,23,Sales,Los Angeles
+26,56860,PhD,8,Marketing,New York
+32,56585,Bachelor,25,HR,Austin
+32,47015,Bachelor,19,Finance,San Francisco
+43,102539,High School,39,Engineering,San Francisco
+59,68585,PhD,9,Finance,Austin
+30,51958,Bachelor,18,Marketing,Los Angeles
+68,51017,Bachelor,2,HR,San Francisco
+49,101707,Master,23,Sales,Chicago
+56,70350,High School,4,Finance,Chicago
+66,37201,Master,2,Sales,New York
+69,54426,Master,26,HR,Austin
+49,42778,Bachelor,15,Finance,Austin
+21,70241,High School,14,Sales,San Francisco
+47,67229,PhD,34,Sales,Los Angeles
+54,111652,Bachelor,11,Finance,Austin
+40,73364,PhD,25,HR,San Francisco
+56,109878,PhD,33,Sales,San Francisco
+62,82056,High School,22,Marketing,Austin
+32,52490,Master,30,Finance,San Francisco
+60,44975,High School,19,Engineering,New York
+46,51723,PhD,11,Engineering,New York
+53,48279,Bachelor,22,HR,Austin
+30,103301,PhD,3,Marketing,Los Angeles
+49,36561,Bachelor,22,Sales,New York
+24,91061,Bachelor,0,Engineering,New York
+68,113397,High School,24,HR,Austin
+39,74153,PhD,1,Marketing,Chicago
+45,58142,Master,29,Marketing,San Francisco
+19,51916,PhD,2,HR,New York
+59,89324,PhD,20,HR,Chicago
+62,69965,Master,24,Sales,Los Angeles
+23,29648,High School,19,HR,Chicago
+45,60133,PhD,21,Sales,Austin
+45,75677,PhD,20,Sales,Los Angeles
+61,119588,Bachelor,32,Finance,Los Angeles
+61,95135,PhD,37,Marketing,Chicago
+37,60046,Master,14,Marketing,Austin
+47,72064,Bachelor,14,Marketing,New York
+28,94350,High School,24,Finance,Chicago
+45,70893,Bachelor,20,Sales,New York
+42,86272,Master,23,Sales,Chicago
+56,117152,Master,4,HR,New York
+50,92649,Bachelor,5,Finance,Chicago
+18,89674,High School,22,HR,Los Angeles
+44,38760,Bachelor,3,Finance,San Francisco
+69,46927,High School,26,HR,Los Angeles
+30,111475,Bachelor,17,Engineering,New York
+58,86367,Master,20,Marketing,Austin
+20,37588,PhD,27,Marketing,Los Angeles
+56,77233,PhD,34,Sales,San Francisco
+23,69738,High School,21,Engineering,New York
+25,58397,High School,39,Marketing,Los Angeles
+44,107189,High School,22,Sales,Chicago
+26,101367,Master,2,Engineering,Austin
+54,96260,Bachelor,39,Marketing,New York
+50,101619,Master,9,HR,Los Angeles
+68,44816,PhD,24,Finance,New York
+59,67240,High School,7,Engineering,Chicago
+61,31276,Bachelor,10,Sales,San Francisco
+41,104530,PhD,4,Engineering,Los Angeles
+32,48499,PhD,36,Sales,New York
+49,113576,PhD,37,Engineering,New York
+49,107495,Master,28,Sales,New York
+41,96635,High School,4,Marketing,San Francisco
+58,110112,PhD,8,HR,New York
+69,60946,High School,1,Marketing,Austin
+66,80204,Master,0,HR,Austin
+66,76886,PhD,39,Marketing,New York
+69,96652,Master,29,Marketing,Austin
+29,40563,Master,10,Engineering,Los Angeles
+56,117324,High School,27,Finance,Austin
+19,117464,PhD,11,Sales,New York
+20,34847,Master,38,Sales,Chicago
+66,51155,PhD,25,Sales,Los Angeles
+54,104671,High School,12,HR,San Francisco
+66,108310,Master,7,Sales,New York
+34,92278,High School,27,Sales,San Francisco
+66,43309,PhD,29,Engineering,Chicago
+19,25619,PhD,8,Marketing,San Francisco
+19,108194,High School,38,Sales,New York
+45,75108,Bachelor,30,Finance,New York
+40,59707,Master,20,Sales,Chicago
+54,45337,PhD,33,HR,New York
+49,106537,PhD,30,HR,Chicago
+50,91504,Master,24,HR,Chicago
+18,72614,High School,11,Sales,New York
+36,116428,High School,0,Engineering,Austin
+19,116155,High School,21,Finance,Chicago
+61,25281,Bachelor,39,Sales,New York
+43,52420,Bachelor,36,Engineering,Austin
+49,105896,PhD,0,Engineering,Chicago
+23,64030,High School,0,Sales,Austin
+49,26058,Master,20,Sales,Los Angeles
+21,111213,PhD,14,Engineering,Los Angeles
+28,101260,Master,16,Engineering,Austin
+34,53404,PhD,21,Engineering,Chicago
+55,54856,Bachelor,37,Sales,New York
+41,34200,PhD,34,Engineering,San Francisco
+22,89178,Bachelor,15,HR,New York
+69,58997,PhD,7,Sales,San Francisco
+51,50611,High School,16,HR,San Francisco
+23,66235,Master,16,Marketing,Chicago
+39,60057,High School,25,Sales,Austin
+28,26239,PhD,12,Marketing,New York
+65,90661,PhD,16,Engineering,Austin
+33,70272,PhD,37,Engineering,Los Angeles
+50,114393,Bachelor,16,Finance,Chicago
+26,86212,Master,13,Engineering,Chicago
+23,40398,Master,5,Marketing,Los Angeles
+33,81503,PhD,34,Engineering,New York
+46,31638,PhD,13,Sales,Los Angeles
+20,31570,Bachelor,7,Engineering,New York
+37,93785,High School,14,Finance,San Francisco
+53,34110,High School,26,Engineering,Chicago
+36,104141,Master,12,Marketing,New York
+43,37115,Bachelor,30,Marketing,Austin
+20,64062,PhD,34,Engineering,Austin
+36,47911,Master,5,Marketing,Chicago
+37,57556,Bachelor,4,Marketing,Los Angeles
+49,103131,High School,21,Finance,Los Angeles
+24,26969,Bachelor,22,Sales,New York
+69,68753,High School,24,Finance,Los Angeles
+58,107811,Bachelor,33,HR,Chicago
+50,29470,Master,25,Finance,New York
+57,35225,High School,4,Engineering,San Francisco
+56,48196,Master,25,Sales,Los Angeles
+35,38669,Master,19,Engineering,Los Angeles
+57,62380,High School,5,HR,New York
+18,73320,High School,5,Sales,Austin
+28,72414,PhD,17,Marketing,Los Angeles
+45,40577,PhD,3,Finance,Chicago
+42,113009,PhD,16,Engineering,Los Angeles
+67,80409,Master,13,HR,San Francisco
+40,53625,Master,13,Marketing,Los Angeles
+48,106040,PhD,12,Finance,Austin
+47,49089,Master,6,Marketing,Los Angeles
+59,61487,Master,14,Finance,New York
+52,90838,High School,18,Sales,Los Angeles
+24,119795,High School,34,Marketing,Austin
+33,75138,Master,16,Marketing,New York
+43,67823,PhD,34,Marketing,Chicago
+65,62208,Bachelor,18,Sales,New York
+69,79061,PhD,19,HR,San Francisco
+66,55659,Bachelor,35,Finance,New York
+19,56890,PhD,34,Marketing,Chicago
+18,104134,High School,31,Sales,Los Angeles
+65,72055,Master,39,HR,New York
+29,44508,Master,23,Finance,New York
+22,67287,High School,16,Sales,New York
+54,103916,Bachelor,6,Finance,New York
+49,51984,Bachelor,0,Marketing,Chicago
+26,33125,Bachelor,34,HR,Austin
+58,61059,High School,31,Sales,Austin
+52,94569,Bachelor,35,HR,New York
+36,42087,High School,12,Marketing,Chicago
+65,30704,PhD,5,HR,Chicago
+33,85576,PhD,13,HR,New York
+20,98384,High School,36,Engineering,San Francisco
+37,112128,Master,14,HR,New York
+41,97460,PhD,3,Finance,San Francisco
+50,52208,Bachelor,39,Sales,New York
+41,110150,High School,15,Engineering,San Francisco
+69,91024,Bachelor,27,Sales,San Francisco
+28,64882,Bachelor,15,Sales,New York
+66,50923,Master,3,Marketing,San Francisco
+25,54165,Bachelor,25,Marketing,Los Angeles
+53,92203,Master,27,Engineering,Austin
+55,116749,PhD,31,Marketing,Chicago
+57,29114,High School,1,Marketing,San Francisco
+37,89965,Bachelor,30,Marketing,San Francisco
+52,61321,High School,2,Sales,Chicago
+65,98297,Bachelor,7,Engineering,San Francisco
+42,50426,High School,23,Sales,Chicago
+52,42772,Bachelor,14,Finance,New York
+42,28712,Bachelor,30,Sales,Los Angeles
+46,26367,Bachelor,8,Finance,Los Angeles
+35,116736,Bachelor,38,HR,Austin
+63,76924,Bachelor,1,HR,San Francisco
+35,28726,Bachelor,7,Finance,Austin
+19,114152,Bachelor,6,Finance,New York
+52,52723,Bachelor,38,Sales,Los Angeles
+33,34108,Bachelor,15,Finance,New York
+58,102714,High School,34,Engineering,New York
+53,60643,Master,29,HR,San Francisco
+50,56324,Bachelor,9,HR,New York
+21,108360,Master,37,Finance,Los Angeles
+50,33927,Bachelor,17,Marketing,Austin
+31,118680,Bachelor,4,Marketing,Los Angeles
+38,47443,High School,28,Finance,San Francisco
+65,104973,PhD,38,Engineering,Los Angeles
+37,88449,PhD,33,Marketing,Chicago
+25,101743,High School,22,Finance,Austin
+24,85233,Master,4,Engineering,Chicago
+20,50537,PhD,29,Engineering,Chicago
+34,102576,High School,5,Sales,San Francisco
+50,47612,High School,3,Engineering,New York
+65,118977,PhD,28,Marketing,Chicago
+29,31471,Master,22,Marketing,Los Angeles
+68,60631,High School,5,Finance,New York
+39,117059,Bachelor,31,Finance,Los Angeles
+39,56348,Master,17,Engineering,Los Angeles
+63,89732,Master,14,HR,New York
+47,26177,PhD,39,Sales,New York
+55,29760,PhD,31,HR,Los Angeles
+55,57779,Bachelor,8,Engineering,San Francisco
+62,46636,High School,36,Engineering,Austin
+68,106889,PhD,9,HR,Austin
+25,78551,PhD,19,Sales,San Francisco
+44,36556,Master,5,HR,New York
+44,52598,PhD,2,Finance,Los Angeles
+51,36563,PhD,10,Marketing,Austin
+38,71819,PhD,16,Finance,Los Angeles
+47,98770,PhD,31,Marketing,San Francisco
+50,116055,Master,3,Engineering,Los Angeles
+45,51966,Bachelor,3,Sales,San Francisco
+64,106709,Bachelor,16,HR,New York
+50,84889,High School,18,Sales,San Francisco
+22,51987,PhD,4,HR,San Francisco
+65,103714,Master,31,Finance,Austin
+36,83348,High School,21,Finance,Los Angeles
+21,49596,High School,5,HR,Austin
+52,58174,Bachelor,34,Sales,Chicago
+66,89106,Master,21,HR,San Francisco
+34,94967,Master,0,Engineering,Chicago
+61,84182,Master,19,Finance,Austin
+45,118300,Bachelor,21,Engineering,Los Angeles
+47,112163,Bachelor,10,Finance,Austin
+46,64310,Bachelor,12,Finance,Los Angeles
+63,81088,Bachelor,2,Marketing,Los Angeles
+23,33906,Bachelor,8,Engineering,New York
+52,61914,PhD,11,Engineering,San Francisco
+58,70379,PhD,22,Marketing,Austin
+54,103612,Master,13,Sales,Los Angeles
+41,62650,High School,32,Engineering,Austin
+46,71881,Master,17,HR,Austin
+66,71413,High School,8,Marketing,Los Angeles
+63,31012,Bachelor,22,Engineering,Chicago
+48,75115,High School,9,Sales,San Francisco
+52,32151,Master,18,Engineering,San Francisco
+50,82716,Master,4,Finance,New York
+69,118747,High School,22,HR,New York
+38,117653,PhD,29,Marketing,New York
+49,61378,Bachelor,24,Finance,San Francisco
+40,67652,Bachelor,27,Sales,Chicago
+50,97430,Master,33,Finance,San Francisco
+20,38467,PhD,24,Finance,San Francisco
+35,56010,High School,9,Sales,San Francisco
+42,79691,Bachelor,13,Finance,San Francisco
+59,89157,PhD,29,Marketing,Chicago
+48,37289,Bachelor,24,Engineering,New York
+20,69976,PhD,13,Finance,Austin
+57,68596,PhD,34,Marketing,New York
+63,48171,Master,33,Engineering,New York
+41,111365,Bachelor,9,Engineering,Austin
+67,69139,High School,34,Finance,San Francisco
+49,73713,Master,10,Marketing,Chicago
+64,54734,Master,10,Finance,Chicago
+39,97588,High School,20,Sales,New York
+40,88646,Master,20,Engineering,Austin
+19,28654,PhD,21,Finance,Los Angeles
+44,114022,PhD,6,Engineering,San Francisco
+59,43743,Bachelor,16,Marketing,New York
+19,73368,Bachelor,1,HR,Chicago
+43,115025,High School,11,Finance,Austin
+34,99172,Bachelor,17,Finance,Austin
+57,31441,PhD,10,Engineering,New York
+50,49611,High School,15,Marketing,Los Angeles
+26,37149,High School,17,Sales,Chicago
+60,84189,Bachelor,34,Marketing,New York
+65,46675,PhD,25,Finance,Los Angeles
+56,96031,High School,15,Sales,Austin
+46,67668,PhD,5,Marketing,San Francisco
+59,38673,PhD,11,HR,Chicago
+43,101666,PhD,12,Engineering,Chicago
+52,113204,Bachelor,3,Marketing,Los Angeles
+67,105758,Master,38,Marketing,New York
+42,90429,Master,1,HR,Austin
+41,48669,High School,25,Finance,Los Angeles
+30,59068,PhD,26,Engineering,San Francisco
+24,113789,Bachelor,26,Marketing,San Francisco
+53,34435,PhD,14,Sales,San Francisco
+62,119088,PhD,7,Marketing,Los Angeles
+37,77249,Bachelor,6,Engineering,Austin
+18,62384,Master,39,Marketing,Chicago
+25,106929,PhD,11,HR,New York
+63,101153,PhD,12,Marketing,Chicago
+33,100388,Master,16,Marketing,Austin
+31,56401,Bachelor,16,Sales,Chicago
+29,96831,High School,35,HR,Los Angeles
+68,59084,Master,20,HR,San Francisco
+40,80826,High School,7,Marketing,Austin
+32,61451,High School,4,Sales,Austin
+45,32227,Master,25,Marketing,Chicago
+51,56910,PhD,15,Marketing,Los Angeles
+19,61041,High School,35,Engineering,Chicago
+49,113920,High School,27,Engineering,Chicago
+40,90681,Bachelor,28,Sales,Austin
+39,106571,PhD,11,Finance,Chicago
+68,90481,High School,36,Engineering,San Francisco
+42,93576,Bachelor,29,Finance,Chicago
+39,89174,PhD,22,HR,San Francisco
+39,51160,Master,15,Engineering,Austin
+66,42633,Master,13,Engineering,Los Angeles
+69,119880,Bachelor,9,Sales,San Francisco
+59,42014,Master,6,Finance,Los Angeles
+23,105532,High School,36,Engineering,Los Angeles
+32,74104,PhD,28,Engineering,San Francisco
+60,66621,High School,2,Sales,Austin
+54,102231,High School,14,Sales,New York
+50,93388,Master,35,Finance,Los Angeles
+25,41014,High School,18,HR,Los Angeles
+61,117578,Master,12,HR,Austin
+61,58755,PhD,20,Marketing,Austin
+22,65390,PhD,36,Engineering,Chicago
+56,48711,High School,26,Finance,Austin
+21,116658,Bachelor,28,Engineering,Los Angeles
+23,82993,Master,19,Finance,San Francisco
+62,99696,Master,24,Finance,New York
+49,52213,High School,5,Finance,Chicago
+69,82784,Master,35,Engineering,San Francisco
+47,32421,Master,1,Sales,New York
+64,111936,Bachelor,21,Engineering,New York
+52,42727,Bachelor,31,Finance,New York
+57,29358,High School,15,Marketing,San Francisco
+69,90108,Bachelor,17,HR,Chicago
+33,119018,High School,4,Finance,Chicago
+30,57117,PhD,35,Marketing,New York
+67,113700,High School,29,Sales,San Francisco
+59,56910,PhD,18,Finance,New York
+47,80754,High School,22,Marketing,Austin
+36,87438,Master,33,Finance,Chicago
+34,54371,Bachelor,12,Engineering,Los Angeles
+36,76501,PhD,28,Marketing,New York
+45,85946,High School,35,Engineering,Austin
+43,63467,Bachelor,21,Engineering,Chicago
+54,42625,High School,35,Marketing,San Francisco
+43,58893,Bachelor,8,HR,Chicago
+40,101329,Bachelor,38,Marketing,San Francisco
+26,56007,High School,18,HR,San Francisco
+29,116302,PhD,37,Finance,New York
+18,64532,PhD,5,Finance,New York
+18,79253,Master,14,Marketing,Chicago
+64,37323,Bachelor,19,Finance,Austin
+51,98379,Master,8,Sales,Chicago
+49,39210,Master,31,Engineering,Los Angeles
+65,41456,High School,3,Engineering,San Francisco
+42,56367,High School,17,HR,San Francisco
+57,79624,High School,4,Finance,New York
+62,35106,Bachelor,19,HR,Austin
+18,93008,High School,22,Engineering,New York
+33,97240,High School,10,Engineering,Los Angeles
+56,89315,Bachelor,36,Finance,Chicago
+22,94249,Bachelor,21,Sales,Chicago
+39,95587,PhD,3,Sales,Austin
+46,35756,High School,28,Finance,New York
+20,93011,High School,33,Finance,New York
+29,61378,High School,12,HR,Los Angeles
+43,29255,PhD,8,Finance,Chicago
+33,39484,High School,30,Sales,New York
+68,81549,PhD,6,Finance,Austin
+54,59503,Master,3,HR,Chicago
+39,98794,PhD,18,HR,Los Angeles
+46,70113,Master,29,HR,Austin
+31,99069,High School,30,HR,San Francisco
+45,30249,Master,34,Marketing,Los Angeles
+22,44201,PhD,20,Finance,Austin
+64,83576,Bachelor,30,Engineering,New York
+66,34686,Master,18,Finance,San Francisco
+47,78363,Master,30,Marketing,Los Angeles
+63,25661,High School,31,HR,New York
+69,69843,PhD,1,Marketing,San Francisco
+22,85963,Master,9,Sales,Chicago
+29,67828,Master,1,Sales,New York
+33,73604,Master,1,Finance,Austin
+43,35526,Master,23,Finance,Los Angeles
+43,93910,Bachelor,16,Engineering,San Francisco
+65,50592,PhD,31,Engineering,New York
+38,53982,High School,15,Sales,Chicago
+56,25207,High School,15,HR,Los Angeles
+53,113733,Bachelor,38,Marketing,Los Angeles
+50,93619,PhD,30,Engineering,New York
+47,54328,Master,23,Engineering,Chicago
+54,71479,Bachelor,0,HR,San Francisco
+40,45103,PhD,10,HR,New York
+27,64891,Master,20,Finance,San Francisco
+22,35754,Bachelor,3,Marketing,Los Angeles
+53,106437,PhD,6,HR,San Francisco
+51,97982,High School,25,Engineering,Chicago
+69,80922,High School,11,Engineering,Austin
+48,73231,PhD,30,Sales,Chicago
+27,54301,High School,16,HR,San Francisco
+36,116652,PhD,32,Finance,New York
+49,87711,Master,10,Marketing,Los Angeles
+18,66323,PhD,27,Finance,Austin
+22,43752,Master,31,Engineering,New York
+62,107205,Bachelor,0,Finance,New York
+21,38395,PhD,27,Engineering,Chicago
+33,110957,Bachelor,6,Engineering,San Francisco
+41,81273,High School,1,Engineering,Chicago
+33,116878,Master,23,Engineering,San Francisco
+19,29895,PhD,3,Engineering,Chicago
+66,101559,Bachelor,18,Sales,New York
+45,35699,Master,25,Finance,Los Angeles
+49,90061,Master,10,Sales,San Francisco
+44,34715,High School,39,Sales,Austin
+37,44169,High School,10,HR,Austin
+41,41163,Master,2,HR,New York
+29,30782,Master,11,HR,Chicago
+67,113177,PhD,2,Marketing,Chicago
+52,109328,Master,26,HR,New York
+50,60585,PhD,1,Finance,Austin
+50,55682,Master,15,Sales,Austin
+68,72864,High School,1,Finance,Chicago
+60,109416,PhD,29,HR,San Francisco
+54,80114,Bachelor,19,Marketing,Los Angeles
+29,63067,High School,37,Marketing,San Francisco
+20,67685,PhD,27,Sales,Austin
+18,43073,PhD,24,Finance,San Francisco
+50,61035,Bachelor,31,Engineering,Los Angeles
+57,89977,PhD,9,Finance,San Francisco
+27,115373,Master,39,HR,San Francisco
+60,108362,Bachelor,32,Engineering,San Francisco
+61,115517,High School,12,Marketing,San Francisco
+46,90450,High School,36,Sales,New York
+30,35382,Master,15,Sales,Austin
+29,29437,High School,21,Marketing,Los Angeles
+48,95971,PhD,19,HR,Austin
+63,89612,PhD,26,Marketing,New York
+19,115355,Master,15,HR,New York
+68,86929,High School,33,Engineering,New York
+67,37329,High School,31,Marketing,New York
+52,50169,Master,25,HR,San Francisco
+40,112468,Bachelor,24,Engineering,Austin
+34,59594,High School,1,Marketing,Chicago
+43,101957,Bachelor,11,Sales,Los Angeles
+25,85631,High School,39,Marketing,New York
+46,70033,High School,8,Finance,Austin
+43,88133,High School,11,Marketing,New York
+27,98165,High School,25,Finance,New York
+43,98861,PhD,8,Engineering,New York
+51,77290,Bachelor,9,Marketing,New York
+68,119031,Bachelor,31,Engineering,New York
+58,56750,High School,33,Engineering,Los Angeles
+24,65461,High School,19,HR,Austin
+21,98800,Bachelor,38,Engineering,New York
+67,103222,PhD,1,Engineering,New York
+62,49226,Master,0,Marketing,New York
+28,31721,Master,35,Marketing,New York
+46,81154,Bachelor,23,Sales,San Francisco
+53,45609,High School,26,HR,San Francisco
+42,77130,High School,1,Engineering,Chicago
+38,97909,PhD,30,HR,New York
+53,80249,Master,13,Finance,Chicago
+27,73895,PhD,1,Engineering,Los Angeles
+54,119473,Master,28,HR,Chicago
+26,30656,Bachelor,14,Sales,Austin
+41,99520,Master,11,Sales,San Francisco
+52,88740,PhD,36,Engineering,San Francisco
+66,89309,PhD,27,Finance,New York
+52,54984,PhD,19,Sales,New York
+65,98822,Bachelor,38,Sales,Los Angeles
+53,30901,Master,23,Finance,Los Angeles
+35,56552,Master,20,HR,Austin
+66,116245,PhD,9,Sales,New York
+56,56055,Master,13,Marketing,New York
+49,62685,High School,36,Sales,Los Angeles
+41,98965,High School,17,HR,Los Angeles
+40,39716,High School,23,HR,Los Angeles
+49,36138,Master,13,Engineering,San Francisco
+54,60298,Bachelor,33,Marketing,Chicago
+29,76112,Bachelor,11,HR,Chicago
+66,48429,Bachelor,21,Finance,New York
+30,75200,Bachelor,5,Marketing,San Francisco
+40,96308,High School,35,Marketing,Los Angeles
+42,73244,High School,35,Finance,New York
+52,42347,PhD,21,Sales,San Francisco
+58,41920,Master,13,Finance,Austin
+47,56822,Master,15,Finance,San Francisco
+34,71659,Bachelor,35,Sales,New York
+66,65108,High School,24,Sales,Chicago
+37,114099,Bachelor,31,Sales,Los Angeles
+65,32967,PhD,32,Sales,Austin
+42,36871,Master,35,Sales,San Francisco
+39,119299,Master,19,Finance,New York
+30,102452,Bachelor,17,Engineering,New York
+36,99270,PhD,37,Engineering,Los Angeles
+66,58613,Master,2,HR,New York
+53,53179,PhD,22,Engineering,New York
+29,77188,PhD,31,Engineering,Los Angeles
+58,80099,Bachelor,15,Finance,Austin
+36,60262,High School,4,Sales,Chicago
+29,103213,Bachelor,3,Sales,Chicago
+26,43268,High School,20,Finance,San Francisco
+24,102866,PhD,39,Engineering,Austin
+45,111269,High School,13,Finance,San Francisco
+31,85545,PhD,38,HR,Chicago
+48,117822,Master,30,Sales,Los Angeles
+69,97146,Master,13,Marketing,New York
+36,96966,Master,5,HR,Chicago
+64,64922,Bachelor,11,HR,Austin
+33,104364,Bachelor,15,Finance,Chicago
+22,67913,PhD,16,Engineering,Austin
+52,80677,Master,22,Sales,Austin
+29,74841,Bachelor,13,Marketing,Austin
+42,71332,Master,6,HR,San Francisco
+69,117062,Bachelor,31,Marketing,Los Angeles
+38,50032,High School,14,Engineering,Chicago
+53,62846,High School,16,Engineering,Los Angeles
+40,84474,Master,33,Marketing,New York
+33,69936,PhD,4,Sales,Chicago
+56,54794,Bachelor,26,Engineering,Los Angeles
+62,86588,Bachelor,22,Marketing,Los Angeles
+59,95984,High School,39,HR,New York
+56,75331,High School,13,Marketing,Austin
+31,119397,PhD,14,Marketing,Chicago
+48,53141,PhD,32,Finance,Chicago
+22,34074,PhD,30,Engineering,New York
+52,31406,Master,34,Sales,Austin
+40,48291,High School,16,Sales,Chicago
+46,66568,Master,27,Finance,Chicago
+60,71851,High School,18,Sales,Chicago
+28,79823,High School,22,Marketing,Austin
+35,48312,Bachelor,31,Finance,New York
+64,68108,High School,39,HR,Chicago
+29,91918,High School,12,Engineering,Los Angeles
+26,59171,Master,19,Engineering,Austin
+27,66779,High School,34,Engineering,San Francisco
+61,93828,Master,4,Marketing,New York
+34,37411,PhD,8,HR,Los Angeles
+55,82009,High School,28,Finance,Chicago
+24,40422,High School,5,Finance,San Francisco
+63,67468,Master,24,Engineering,New York
+30,57371,PhD,30,HR,Austin
+57,82022,Bachelor,21,HR,San Francisco
+59,96229,PhD,1,HR,San Francisco
+26,76196,Master,4,Sales,Los Angeles
+67,105354,PhD,26,Sales,New York
+44,51715,Master,24,Engineering,Los Angeles
+19,52605,Master,7,HR,Los Angeles
+22,56174,Bachelor,0,HR,Chicago
+46,34956,High School,19,Finance,Austin
+54,101373,Master,22,Finance,San Francisco
+55,94252,Master,31,Engineering,New York
+36,86949,Bachelor,10,HR,Austin
+25,87646,Master,38,Engineering,Austin
+65,95017,High School,23,Finance,New York
+62,88037,Bachelor,10,Finance,Austin
+18,114818,High School,28,Sales,Chicago
+39,31548,High School,25,Engineering,Austin
+69,98294,Bachelor,15,Engineering,Chicago
+34,48177,Master,34,HR,San Francisco
+24,49022,High School,19,HR,San Francisco
+42,30542,High School,2,Sales,Los Angeles
+62,116012,High School,0,Marketing,Chicago
+21,85428,High School,0,Marketing,San Francisco
+53,47740,Bachelor,16,Marketing,Austin
+23,84353,Bachelor,1,Engineering,New York
+48,115353,PhD,28,Engineering,New York
+36,81532,PhD,19,Finance,Chicago
+61,41052,High School,5,Engineering,Los Angeles
+56,72076,Master,7,Engineering,Austin
+44,78420,High School,28,Engineering,Chicago
+27,25671,Master,32,Sales,New York
+43,25163,High School,2,Engineering,Chicago
+36,66424,PhD,34,HR,Austin
+56,78744,PhD,4,HR,San Francisco
+20,95331,Master,26,Finance,Austin
+62,35634,High School,11,Sales,San Francisco
+30,29798,Master,19,HR,San Francisco
+67,47420,PhD,19,Sales,San Francisco
+45,54300,High School,8,Sales,Chicago
+37,114881,High School,38,Finance,New York
+45,35749,Master,3,Sales,Chicago
+25,50121,Bachelor,18,Engineering,New York
+58,62487,Master,37,Sales,Austin
+56,118947,PhD,26,Finance,Los Angeles
+18,58361,PhD,12,Finance,Austin
+20,46223,PhD,12,Finance,Chicago
+30,97930,PhD,21,HR,Chicago
+45,39056,PhD,27,Engineering,New York
+66,53380,Bachelor,21,HR,Chicago
+42,51035,High School,18,Marketing,San Francisco
+50,55620,Master,7,Engineering,Chicago
+55,44877,Master,7,Sales,New York
+23,80316,PhD,25,Finance,New York
+61,89041,Master,25,Marketing,San Francisco
+62,78352,PhD,22,Engineering,New York
+49,55911,Bachelor,12,HR,Los Angeles
+62,57784,Bachelor,27,Finance,Austin
+64,28191,High School,8,HR,Chicago
+38,58160,Bachelor,19,Engineering,Los Angeles
+33,115536,Bachelor,18,Engineering,Chicago
+38,89641,High School,38,Marketing,Los Angeles
+28,74723,Master,11,Sales,Chicago
+54,28631,PhD,14,HR,San Francisco
+53,31172,PhD,30,Marketing,New York
+52,67080,Master,13,Finance,New York
+36,114097,High School,10,Sales,San Francisco
+37,115353,Master,25,Marketing,Los Angeles
+35,45281,Bachelor,26,HR,Austin
+64,53671,High School,10,Engineering,Los Angeles
+58,76431,High School,37,Finance,New York
+66,115900,High School,33,HR,Austin
+31,117961,PhD,18,Sales,Chicago
+32,53602,Master,5,Sales,Austin
+48,113789,High School,37,Engineering,Los Angeles
+18,76399,High School,27,Engineering,San Francisco
+20,48472,High School,0,Finance,Chicago
+33,74230,Master,34,Finance,Los Angeles
+40,98616,PhD,39,Engineering,Chicago
+28,32099,Bachelor,7,Engineering,Austin
+29,50431,PhD,6,Sales,New York
+27,81492,High School,10,Engineering,Los Angeles
+49,72684,PhD,38,Marketing,San Francisco
+33,55111,PhD,3,HR,Austin
+25,88936,Bachelor,24,Engineering,Los Angeles
+55,47614,Master,11,Finance,San Francisco
+29,117260,Master,25,Marketing,Los Angeles
+41,66991,PhD,37,Finance,Austin
+45,95476,PhD,11,Marketing,Los Angeles
+25,85920,Master,36,Engineering,Chicago
+45,119294,Master,23,HR,Austin
+53,88530,Bachelor,15,Finance,Los Angeles
+43,61224,High School,12,Marketing,New York
+25,32788,PhD,24,Sales,Los Angeles
+67,53082,Master,3,Engineering,Chicago
+45,114570,PhD,10,HR,San Francisco
+45,101816,PhD,31,Engineering,San Francisco
+54,108588,Master,6,Sales,San Francisco
+58,41531,Bachelor,10,HR,New York
+53,113340,PhD,27,Sales,Chicago
+44,119439,Bachelor,22,Engineering,Austin
+34,69857,Master,22,Marketing,San Francisco
+26,35142,High School,27,Engineering,Chicago
+50,73355,High School,25,Engineering,Los Angeles
+37,34866,PhD,24,Engineering,New York
+30,95067,Master,28,Finance,Chicago
+45,89027,Bachelor,18,Sales,Chicago
+65,82906,PhD,32,Sales,Austin
+46,53138,Master,35,Sales,Chicago
+30,117601,Master,13,Finance,Austin
+63,54956,Bachelor,13,Marketing,New York
+52,101295,PhD,34,Engineering,New York
+23,30439,Master,29,Marketing,Los Angeles
+35,72241,Master,27,Finance,Austin
+68,67533,Master,16,Sales,Austin
+22,53270,Bachelor,2,Engineering,San Francisco
+64,103815,PhD,15,HR,San Francisco
+42,64279,PhD,29,HR,Los Angeles
+19,48888,PhD,28,Marketing,New York
+27,42630,PhD,14,Sales,San Francisco
+47,86063,High School,24,HR,Chicago
+67,60144,High School,37,Marketing,New York
+62,77161,PhD,37,Finance,Chicago
+22,116074,Bachelor,22,Marketing,Austin
+50,102360,High School,24,Marketing,New York
+18,75979,Master,6,Marketing,Los Angeles
+35,31979,High School,21,Engineering,Austin
+49,51189,Master,16,Marketing,Austin
+64,67600,PhD,17,Marketing,Chicago
+66,84560,High School,9,Engineering,Austin
+28,103040,Bachelor,9,Engineering,San Francisco
+38,86558,High School,6,Finance,New York
+43,111205,High School,37,Sales,San Francisco
+42,31910,High School,26,HR,Chicago
+39,82713,PhD,32,HR,Chicago
+44,71857,Bachelor,0,Marketing,New York
+66,59964,High School,33,Finance,Austin
+30,110667,Bachelor,3,Marketing,Los Angeles
+50,50227,PhD,16,HR,Chicago
+51,30978,Master,3,Engineering,New York
+58,112527,High School,25,Sales,Los Angeles
+52,42153,Bachelor,3,Finance,Austin
+18,84765,Bachelor,0,Engineering,Chicago
+38,64071,PhD,6,Sales,New York
+65,94519,High School,29,Finance,New York
+23,34503,Master,8,Finance,New York
+45,85703,Bachelor,34,HR,Chicago
+34,89379,High School,7,Engineering,Los Angeles
+22,82866,Master,23,Finance,New York
+48,41905,Bachelor,18,Finance,Austin
+22,70838,Bachelor,35,Sales,New York
+55,83279,Master,26,HR,Los Angeles
+20,114489,Master,31,Marketing,Chicago
+40,51806,PhD,13,HR,New York
+54,70000,High School,17,Marketing,New York
+54,47168,High School,27,Engineering,Austin
+27,95119,PhD,28,Engineering,Austin
+27,63714,Bachelor,15,Finance,New York
+36,79093,Master,34,Engineering,New York
+34,80419,Master,30,Finance,Austin
+38,74145,Master,3,HR,Los Angeles
+31,102425,Bachelor,36,Engineering,San Francisco
+26,117949,Master,16,HR,San Francisco
+63,102811,Master,38,HR,New York
+18,27461,PhD,25,Engineering,Austin
+68,39291,Bachelor,38,HR,Chicago
+62,71804,High School,3,Engineering,Chicago
+30,101971,PhD,29,Engineering,San Francisco
+21,118471,PhD,29,Engineering,Los Angeles
+18,89946,High School,21,Marketing,San Francisco
+66,109080,PhD,10,HR,New York
+57,86332,Bachelor,1,Sales,Los Angeles
+49,102794,Master,11,Engineering,Chicago
+51,55841,Bachelor,29,HR,Austin
+45,73758,High School,35,Finance,Austin
+48,101272,High School,17,Engineering,New York
+25,62643,PhD,25,Engineering,San Francisco
+56,75408,Bachelor,6,Sales,New York
+43,68950,Bachelor,0,Marketing,Austin
+51,81849,High School,25,Marketing,Chicago
+20,53044,Bachelor,22,Engineering,Austin
+67,40997,High School,25,HR,Los Angeles
+29,104751,Bachelor,5,Finance,Austin
+18,48911,Bachelor,5,Finance,Austin
+61,80533,Bachelor,7,HR,Los Angeles
+22,107566,High School,23,Engineering,San Francisco
+47,119870,PhD,21,Finance,Austin
+47,39571,Bachelor,18,Marketing,New York
+34,119463,High School,36,HR,Austin
+65,82941,High School,17,Sales,New York
+64,83005,Bachelor,30,Engineering,Los Angeles
+40,111250,Bachelor,36,HR,Austin
+32,83712,PhD,29,Finance,Los Angeles
+54,68541,High School,32,Engineering,Los Angeles
+38,48387,High School,9,Marketing,San Francisco
+31,118980,Master,36,Engineering,Austin
+19,73908,High School,11,Engineering,New York
+28,110457,PhD,29,Marketing,New York
+68,38057,Master,26,Marketing,Austin
+56,89028,Master,38,Engineering,San Francisco
+55,80731,Master,8,Marketing,San Francisco
+51,49858,Bachelor,20,HR,San Francisco
+55,73689,Bachelor,11,Marketing,New York
+67,69638,High School,28,Marketing,Los Angeles
+51,116598,Master,32,Engineering,San Francisco
+35,71486,PhD,14,HR,New York
+47,45567,Bachelor,1,Sales,New York
+32,54739,PhD,38,Sales,Los Angeles
+44,82804,PhD,17,Finance,Austin
+68,28754,Bachelor,2,Marketing,Austin
+51,52044,Bachelor,6,Marketing,San Francisco
+69,92260,Bachelor,17,HR,San Francisco
+55,91912,Bachelor,37,Sales,Los Angeles
+50,33706,Master,36,Finance,San Francisco
+41,33894,Master,32,HR,Los Angeles
+32,43037,Master,30,Marketing,New York
+47,108986,Master,10,Sales,San Francisco
+59,106942,High School,3,Finance,New York
+68,76612,Master,17,Engineering,Chicago
+34,54725,Bachelor,3,Sales,Los Angeles
+22,30926,PhD,33,Finance,Chicago
+46,34496,Master,28,HR,San Francisco
+21,81447,High School,23,Engineering,New York
+27,54806,Bachelor,21,Finance,San Francisco
+34,113199,PhD,1,Finance,Chicago
+27,66321,PhD,5,Marketing,San Francisco
+34,90095,Master,24,Sales,Austin
+37,47656,PhD,20,Marketing,Chicago
+41,80147,Master,15,Engineering,San Francisco
+22,116396,Master,30,Finance,New York
+51,74666,Bachelor,13,Marketing,San Francisco
+23,107368,Bachelor,38,Sales,New York
+19,63787,High School,27,Engineering,Austin
+30,87946,Bachelor,31,HR,San Francisco
+60,46727,Bachelor,27,Marketing,Austin
+60,93056,Master,8,Engineering,Chicago
+65,28081,Bachelor,21,HR,New York
+28,59196,Master,31,Marketing,Chicago
+68,61735,Master,4,Engineering,New York
+64,105102,Bachelor,22,Engineering,Austin
+40,104578,High School,4,Marketing,Los Angeles
+33,50498,High School,31,Engineering,San Francisco
+48,101865,PhD,9,Finance,Austin
+28,56656,PhD,38,Marketing,New York
+33,92695,Bachelor,14,Engineering,New York
+25,62900,High School,6,HR,New York
+21,109899,Master,28,HR,New York
+57,72701,PhD,2,Finance,San Francisco
+21,44033,Master,18,Marketing,Chicago
+42,35805,PhD,9,Engineering,Los Angeles
+20,60851,Bachelor,27,Engineering,San Francisco
+49,51832,High School,28,HR,New York
+20,88437,PhD,14,Finance,San Francisco
+44,38944,High School,34,HR,Austin
+46,44873,Master,5,HR,New York
+49,65372,Bachelor,11,Finance,Los Angeles
+67,114464,High School,37,Marketing,New York
+68,40379,Bachelor,12,Engineering,Los Angeles
+36,61751,High School,28,Marketing,Los Angeles
+38,114822,Master,18,Sales,Chicago
+22,30110,Master,2,Sales,Chicago
+35,79341,Bachelor,7,Sales,San Francisco
+45,37087,Master,7,Finance,San Francisco
+59,48762,PhD,19,HR,Los Angeles
+39,107617,High School,3,Marketing,New York
+38,34596,Master,20,Engineering,Austin
+23,43313,PhD,2,Sales,Austin
+18,91549,Bachelor,7,Marketing,New York
+22,48705,PhD,22,Sales,New York
+58,92364,Bachelor,15,Sales,Chicago
+29,98445,Bachelor,12,Engineering,Austin
+43,103645,High School,2,Finance,Los Angeles
+63,27023,High School,8,HR,San Francisco
+51,84796,PhD,13,Finance,Chicago
+66,105073,High School,12,Marketing,Austin
+31,117197,High School,6,Finance,New York
+43,89429,High School,14,Marketing,Austin
+62,86627,PhD,6,Marketing,Los Angeles
+44,58848,Master,37,HR,Chicago
+26,62804,High School,33,Engineering,New York
+43,40379,High School,21,HR,Los Angeles
+64,84664,PhD,23,Finance,San Francisco
+39,52766,Master,36,Marketing,Chicago
+64,93099,High School,0,Sales,Los Angeles
+47,61060,Bachelor,9,Sales,Los Angeles
+60,119733,PhD,15,Marketing,New York
+65,94122,High School,7,HR,San Francisco
+34,41087,High School,24,Engineering,Los Angeles
+43,73868,Bachelor,11,HR,Chicago
+53,48225,Bachelor,24,Marketing,Los Angeles
+18,31643,PhD,16,Marketing,Austin
+25,118059,PhD,25,Engineering,Chicago
+66,61727,Bachelor,13,Finance,Chicago
+52,36005,PhD,35,Finance,Los Angeles
+69,90697,Bachelor,22,Engineering,New York
+32,41029,High School,5,Finance,Chicago
+64,39226,Bachelor,4,Sales,Austin
+39,88646,Bachelor,24,Finance,New York
+31,85603,Master,17,Finance,New York
+43,53731,Bachelor,12,Finance,New York
+45,93926,Bachelor,13,Sales,Chicago
+40,30997,Master,27,Finance,New York
+31,80506,PhD,17,Sales,Los Angeles
+41,103229,Master,27,Engineering,New York
+19,74815,High School,26,HR,Austin
+62,67092,Master,31,Engineering,San Francisco
+43,87539,High School,8,HR,Austin
+31,91077,PhD,39,Engineering,Chicago
+68,46817,Master,31,HR,New York
+24,62861,Master,19,HR,New York
+20,38428,PhD,27,Marketing,Los Angeles
+64,68934,High School,32,HR,New York
+40,35258,Master,3,HR,Austin
+63,82775,High School,33,Marketing,Chicago
+60,106580,Master,2,Finance,San Francisco
+64,119947,Bachelor,25,Finance,New York
+62,30469,Master,7,Marketing,San Francisco
+35,53854,PhD,5,Sales,New York
+55,31256,PhD,15,HR,Chicago
+52,101256,High School,23,HR,Austin
+68,58937,Master,38,Marketing,Chicago
+32,26651,High School,29,Marketing,San Francisco
+42,75288,High School,12,Sales,New York
+54,109730,Bachelor,4,Finance,San Francisco
+45,50051,Bachelor,24,Engineering,Austin
+27,52386,PhD,19,Finance,Chicago
+56,100054,High School,17,HR,San Francisco
+34,41184,PhD,17,Marketing,San Francisco
+56,58787,Master,1,Sales,Austin
+39,46621,High School,9,Finance,New York
+43,100564,High School,11,Sales,San Francisco
+61,102984,Master,12,Finance,Austin
+42,84792,Master,10,HR,New York
+34,70253,PhD,18,Engineering,New York
+30,59051,PhD,34,Sales,Chicago
+37,74811,Master,38,Sales,Austin
+42,55447,PhD,25,Engineering,New York
+21,108930,Master,13,Sales,Chicago
+27,55254,High School,23,Sales,Los Angeles
+20,109045,High School,0,Finance,Austin
+58,82418,Bachelor,21,Finance,Los Angeles
+62,39472,High School,22,Engineering,New York
+35,28471,Master,18,HR,Austin
+64,33329,PhD,17,Sales,Chicago
+53,59865,Bachelor,11,HR,New York
+64,71850,PhD,27,Engineering,Austin
+39,79220,Master,27,Engineering,Austin
+51,118808,High School,32,Finance,Los Angeles
+64,31397,Bachelor,18,Sales,New York
+25,60525,Master,27,Marketing,Chicago
+57,78072,Bachelor,36,Engineering,Chicago
+66,115106,Bachelor,25,Sales,New York
+61,108820,High School,34,HR,New York
+36,109530,Master,33,Finance,San Francisco
+59,48284,PhD,34,HR,Los Angeles
+58,86330,Bachelor,39,Engineering,New York
+54,108369,Bachelor,15,Engineering,New York
+23,50122,PhD,37,HR,San Francisco
+69,95553,Master,12,Engineering,San Francisco
+43,106906,Bachelor,22,Sales,Austin
+51,119788,Bachelor,21,Engineering,Chicago
+62,87812,Bachelor,15,Finance,Los Angeles
+23,32999,Master,27,Sales,Austin
+54,47436,Master,34,Marketing,New York
+50,67963,PhD,7,Engineering,San Francisco
+39,27096,Master,21,Engineering,Chicago
+38,50279,Master,20,Finance,Austin
+23,51201,High School,25,Finance,Chicago
+23,44715,PhD,39,HR,San Francisco
+65,54309,Bachelor,20,HR,Austin
+21,40078,Master,24,HR,Austin
+47,81614,Bachelor,0,Finance,Chicago
+28,30105,Bachelor,5,HR,San Francisco
+47,119848,High School,22,HR,New York
+48,27839,Master,22,Marketing,Austin
+41,93920,PhD,22,HR,New York
+26,68619,Master,31,Engineering,San Francisco
+20,67821,Bachelor,29,Finance,Austin
+68,38493,PhD,12,Sales,Austin
+48,42069,Master,17,Marketing,New York
+57,32531,Bachelor,22,Finance,Los Angeles
+54,62051,Bachelor,14,Finance,New York
+53,32736,High School,32,Engineering,New York
+41,32710,High School,20,HR,Los Angeles
+48,92155,High School,38,Engineering,San Francisco
+23,38975,Bachelor,22,HR,San Francisco
+19,87424,Master,26,HR,Austin
+37,70603,High School,17,Finance,Chicago
+45,48252,Master,23,HR,Chicago
+28,105797,High School,39,Marketing,Austin
+21,26431,PhD,6,Marketing,Chicago
+32,99603,PhD,19,Marketing,New York
+23,62481,High School,26,Finance,New York
+66,117573,Bachelor,5,Engineering,Los Angeles
+47,34557,High School,26,Sales,Los Angeles
+55,99971,High School,8,HR,Austin
+68,25162,Bachelor,30,Sales,Austin
+19,59742,PhD,20,Engineering,Austin
+32,44675,Master,25,Engineering,New York
+28,98997,High School,39,Finance,Chicago
+25,42015,Bachelor,12,Marketing,Austin
+43,75057,High School,22,Marketing,Austin
+68,57591,Bachelor,19,Engineering,New York
+62,118583,Master,36,Finance,New York
+61,34833,Master,27,Finance,New York
+22,32896,PhD,16,HR,Chicago
+23,57972,Bachelor,27,Marketing,Austin
+43,74733,Bachelor,1,Engineering,San Francisco
+21,66800,PhD,24,Sales,San Francisco
+36,30347,PhD,5,Marketing,Austin
+37,84063,Bachelor,10,HR,Austin
+50,27643,PhD,37,Finance,Austin
+37,65785,Master,5,Engineering,Austin
+66,43681,High School,10,Marketing,Chicago
+29,75026,Master,13,Sales,San Francisco
+64,40892,PhD,1,HR,Los Angeles
+18,72299,Bachelor,39,HR,San Francisco
+43,42073,Bachelor,2,Marketing,San Francisco
+31,55682,Master,34,Sales,New York
+55,39289,Bachelor,32,HR,Austin
+54,32927,PhD,23,Engineering,Austin
+28,73330,Master,18,HR,Austin
+53,91707,Bachelor,17,Sales,New York
+30,102454,High School,23,Finance,Chicago
+60,90428,High School,34,Finance,Chicago
+20,75601,PhD,0,Marketing,Los Angeles
+50,102465,Bachelor,35,Sales,Chicago
+23,27539,PhD,24,HR,Chicago
+67,47669,Master,33,HR,Austin
+27,95968,High School,24,Finance,San Francisco
+22,45644,Master,15,Finance,Chicago
+40,43745,Bachelor,33,Engineering,Chicago
+27,53228,PhD,28,Finance,New York
+61,59521,PhD,18,Engineering,Los Angeles
+19,51928,PhD,22,HR,New York
+30,43322,Master,18,Engineering,Austin
+57,82714,High School,24,Engineering,San Francisco
+19,112896,Master,15,Marketing,Los Angeles
+37,87292,Master,8,Finance,New York
+18,54055,Bachelor,0,Engineering,Chicago
+54,67891,Bachelor,18,HR,Chicago
+26,106912,Bachelor,32,Sales,Los Angeles
+34,31588,High School,33,Engineering,Chicago
+26,115536,High School,15,Finance,New York
+28,31304,Bachelor,39,Marketing,New York
+32,32345,Bachelor,17,HR,Chicago
+41,54300,High School,33,Marketing,Chicago
+55,49259,PhD,24,Sales,Austin
+52,116006,High School,5,Engineering,San Francisco
+47,113553,High School,20,Engineering,Los Angeles
+48,40352,High School,5,Finance,New York
+66,58365,Bachelor,31,Engineering,Los Angeles
+22,44446,PhD,38,HR,Austin
+61,27336,High School,30,Sales,New York
+67,87032,Bachelor,9,Marketing,Austin
+31,100415,Master,29,Sales,Austin
+28,32521,Master,17,Engineering,Chicago
+26,96707,High School,23,Marketing,Los Angeles
+51,48481,Master,8,Finance,Los Angeles
+29,43474,PhD,30,Sales,Chicago
+52,71760,Master,14,Marketing,Los Angeles
+52,80718,Master,3,Marketing,Chicago
+18,69629,PhD,39,Marketing,New York
+57,70232,High School,8,HR,Austin
+39,111544,High School,8,Sales,Austin
+46,92169,PhD,25,Marketing,Los Angeles
+25,75669,PhD,3,Sales,San Francisco
+28,103021,PhD,16,Marketing,Austin
+58,94184,Master,15,Finance,Chicago
+54,72945,PhD,14,Finance,San Francisco
+31,38140,Bachelor,34,Finance,San Francisco
+47,108457,Master,4,Engineering,Austin
+52,39357,High School,4,Marketing,Austin
+38,93673,High School,19,Engineering,Austin
+54,90633,High School,14,Sales,Chicago
+22,101943,Master,17,Engineering,San Francisco
+36,103258,Bachelor,1,Sales,Los Angeles
+31,37924,PhD,28,Sales,Chicago
+43,94286,PhD,12,Sales,New York
+21,118269,High School,3,Engineering,Austin
+42,99071,High School,9,Marketing,San Francisco
+62,82326,Master,30,Engineering,Chicago
+59,115023,Bachelor,7,Marketing,New York
+42,55651,PhD,2,Marketing,Chicago
+35,95202,Master,8,Sales,Chicago
+57,73777,PhD,29,Engineering,Los Angeles
+25,41994,High School,10,Marketing,Los Angeles
+56,92263,PhD,34,Finance,Chicago
+57,84634,Bachelor,36,Marketing,New York
+31,35800,Bachelor,12,Finance,San Francisco
+49,62823,High School,35,Engineering,San Francisco
+68,88878,Bachelor,12,Engineering,Austin
+55,43708,Bachelor,11,Engineering,Austin
+50,37819,Master,36,Marketing,San Francisco
+40,99905,PhD,9,HR,Chicago
+32,88870,High School,8,Marketing,Chicago
+50,34283,High School,6,Marketing,Los Angeles
+42,55573,High School,1,Sales,Los Angeles
+34,103707,High School,22,Sales,Austin
+50,55933,High School,38,Marketing,San Francisco
+64,30774,Bachelor,39,Finance,Chicago
+19,97055,Master,38,Sales,San Francisco
+31,35983,High School,20,Marketing,New York
+57,43133,Master,22,HR,San Francisco
+57,39939,Master,28,Finance,New York
+68,25781,Bachelor,13,Engineering,Los Angeles
+56,81700,High School,25,Marketing,Los Angeles
+68,52624,Bachelor,4,Marketing,Austin
+23,31823,High School,30,Finance,San Francisco
+23,43489,Bachelor,24,Sales,San Francisco
+20,64961,Master,30,Sales,New York
+24,54118,High School,19,Sales,Los Angeles
+68,106816,PhD,16,Engineering,New York
+25,47263,Master,1,Finance,Los Angeles
+59,38565,PhD,24,Finance,New York
+69,45354,Master,12,Sales,Los Angeles
+32,67951,Bachelor,38,Sales,New York
+64,116179,High School,27,HR,Los Angeles
+46,48648,Master,5,HR,New York
+50,75729,Bachelor,2,Marketing,San Francisco
+69,66971,High School,34,Marketing,Austin
+47,43658,High School,17,Finance,New York
+56,46253,Master,10,Finance,Austin
+44,89166,High School,19,Engineering,San Francisco
+53,73563,Master,4,Engineering,San Francisco
+46,51390,High School,18,HR,Los Angeles
+55,113664,PhD,21,Marketing,Austin
+50,76578,Bachelor,18,HR,Chicago
+54,104025,PhD,15,HR,Los Angeles
+44,57658,Master,23,Marketing,Austin
+50,31852,PhD,3,Engineering,New York
+21,119986,Master,14,Marketing,New York
+39,27551,High School,24,Sales,San Francisco
+19,96947,High School,34,Sales,Chicago
+27,86001,Master,13,Sales,New York
+22,74159,PhD,18,Finance,Austin
+27,76707,High School,37,Engineering,Austin
+50,58243,Bachelor,35,Engineering,New York
+55,46800,High School,6,Finance,Austin
+30,100939,Bachelor,29,HR,Austin
+48,82828,PhD,18,Sales,San Francisco
+64,32239,Bachelor,24,Sales,Chicago
+53,31710,Bachelor,15,HR,San Francisco
+62,46384,Bachelor,39,Marketing,Chicago
+41,46038,Bachelor,7,Marketing,Austin
+69,65846,High School,17,Engineering,Chicago
+32,112983,Bachelor,27,Finance,Austin
+46,92821,High School,15,Engineering,Austin
+25,62991,Bachelor,18,Marketing,San Francisco
+22,104057,Master,16,HR,San Francisco
+46,31971,PhD,12,Engineering,Los Angeles
+64,54139,Bachelor,6,Sales,New York
+21,110445,Master,26,Sales,Los Angeles
+29,102067,Bachelor,9,HR,Los Angeles
+62,105257,Bachelor,33,Marketing,Chicago
+19,109742,Bachelor,35,Sales,Austin
+44,62711,Master,24,Sales,Austin
+48,31530,PhD,5,Finance,Austin
+68,36116,Master,23,Engineering,New York
+68,90794,PhD,17,Marketing,Chicago
+53,25282,Bachelor,22,Engineering,Chicago
+53,104473,High School,5,Marketing,Austin
+43,26898,Bachelor,28,Sales,Los Angeles
+60,29135,PhD,24,Finance,New York
+44,31629,Master,16,Engineering,Los Angeles
+22,110120,Bachelor,23,Sales,San Francisco
+37,114087,Master,10,Marketing,Chicago
+28,90031,Master,25,Engineering,Chicago
+27,58380,Master,33,Engineering,Los Angeles
+57,42071,Bachelor,27,Sales,New York
+55,45074,Master,2,Engineering,Chicago
+23,115724,Master,10,Finance,Los Angeles
+25,92843,Bachelor,37,Finance,New York
+40,64901,Master,13,Sales,Los Angeles
+64,36205,Bachelor,25,Marketing,New York
+43,80661,PhD,20,Sales,Austin
+63,30906,PhD,38,Finance,New York
+60,27591,PhD,29,HR,San Francisco
+29,87987,Master,7,HR,Austin
+43,88370,High School,19,Engineering,Los Angeles
+30,105685,High School,31,Engineering,Austin
+57,79400,Master,21,HR,Austin
+35,50150,High School,6,Finance,Los Angeles
+42,56852,Bachelor,8,Engineering,Los Angeles
+50,67870,High School,0,Sales,San Francisco
+64,77756,Master,28,Sales,Los Angeles
+57,81481,Master,7,Finance,Chicago
+60,26283,Bachelor,3,Engineering,Chicago
+29,58691,PhD,34,Sales,San Francisco
+61,26125,Master,2,Engineering,New York
+53,92065,Bachelor,39,Engineering,New York
+65,51170,High School,6,Sales,Chicago
+21,33438,High School,26,HR,Los Angeles
+22,45095,Bachelor,0,Sales,San Francisco
+54,41154,Bachelor,26,Finance,New York
+25,33004,Master,15,Marketing,New York
+59,34752,High School,37,Sales,Austin
+66,80426,Bachelor,6,Engineering,Chicago
+45,51819,High School,22,Engineering,Los Angeles
+48,117051,Bachelor,10,Sales,San Francisco
+26,49217,High School,32,Marketing,New York
+68,113708,PhD,35,Sales,Austin
+46,57994,Master,36,Marketing,Chicago
+31,40036,High School,16,Marketing,Chicago
+57,102275,PhD,34,Finance,San Francisco
+58,74416,High School,4,Engineering,New York
+39,34587,High School,31,Engineering,San Francisco
+28,25645,PhD,2,Marketing,San Francisco
+40,55930,High School,34,Engineering,Austin
+18,106835,High School,13,HR,Chicago
+63,55090,Master,30,Marketing,Los Angeles
+54,112489,PhD,30,Engineering,Chicago
+38,77142,PhD,16,HR,Chicago
+43,51475,Bachelor,23,Finance,Austin
+63,43888,High School,22,Engineering,Los Angeles
+53,68732,Master,17,HR,New York
+40,106623,High School,13,Sales,Los Angeles
+18,71305,High School,14,Sales,New York
+68,71037,Bachelor,14,HR,Los Angeles
+57,34346,High School,5,Marketing,San Francisco
+32,25587,Master,26,Marketing,Los Angeles
+38,37763,Master,14,Engineering,Austin
+64,84165,Bachelor,35,Sales,New York
+26,94615,High School,7,Marketing,Chicago
+26,61116,Master,14,Marketing,Austin
+27,110751,High School,2,Sales,New York
+69,116353,High School,12,Finance,New York
+43,115301,High School,33,Marketing,Chicago
+58,50556,Bachelor,23,HR,San Francisco
+52,84042,High School,39,Engineering,Austin
+69,43099,Master,31,Marketing,Chicago
+42,70096,High School,31,Marketing,Chicago
+43,96986,Master,29,Finance,San Francisco
+28,38230,High School,12,HR,Austin
+55,54009,Master,0,Engineering,Chicago
+19,95969,Master,33,Marketing,San Francisco
+24,58866,High School,14,Engineering,Austin
+35,109246,High School,13,Sales,Los Angeles
+44,101975,Master,28,Marketing,New York
+51,66855,PhD,33,Marketing,San Francisco
+44,106557,Bachelor,17,Sales,New York
+34,31416,PhD,6,Finance,Los Angeles
+60,97516,PhD,28,Marketing,Chicago
+61,80915,High School,30,Engineering,Chicago
+68,43058,Bachelor,24,HR,Austin
+41,101637,PhD,37,Engineering,San Francisco
+42,65718,High School,13,Finance,San Francisco
+24,57602,PhD,7,HR,Austin
+69,99658,PhD,26,Engineering,New York
+23,103112,High School,1,Engineering,Chicago
+41,83067,High School,16,Sales,Chicago
+50,52516,High School,36,Finance,San Francisco
+66,112969,Bachelor,13,Sales,San Francisco
+46,26089,PhD,24,HR,Austin
+60,62346,High School,29,Sales,Los Angeles
+39,99663,Master,28,Finance,New York
+43,35487,PhD,19,Marketing,Los Angeles
+45,25155,Master,20,Marketing,Los Angeles
+67,92494,Bachelor,21,HR,San Francisco
+38,101229,High School,34,Marketing,San Francisco
+66,63547,Master,36,Sales,San Francisco
+24,53795,Bachelor,15,HR,Los Angeles
+34,80296,High School,16,Finance,New York
+37,46447,Master,15,HR,San Francisco
+58,61598,Master,1,HR,Chicago
+66,66814,Bachelor,3,Engineering,New York
+37,115751,High School,20,Engineering,Chicago
+39,100330,High School,38,HR,New York
+45,112960,Master,33,Marketing,San Francisco
+57,88278,Master,29,Engineering,Austin
+66,80077,Master,5,Finance,San Francisco
+24,96906,High School,16,Sales,Los Angeles
+18,34528,Bachelor,38,Engineering,Los Angeles
+49,118812,Bachelor,24,HR,New York
+30,75100,High School,4,Marketing,Los Angeles
+47,33179,PhD,4,Sales,San Francisco
+40,73781,Bachelor,19,Engineering,Chicago
+68,80267,Master,15,Marketing,San Francisco
+36,107379,PhD,36,Marketing,New York
+49,48952,PhD,39,Marketing,Los Angeles
+47,78798,Bachelor,8,HR,Chicago
+46,75939,PhD,4,Finance,Austin
+66,54516,PhD,1,Marketing,Chicago
+62,81526,Bachelor,8,Sales,Chicago
+46,35449,Bachelor,35,Engineering,San Francisco
+47,75290,PhD,21,Sales,Austin
+33,111661,Master,21,HR,New York
+57,97954,High School,21,HR,New York
+36,47746,PhD,33,Sales,Chicago
+35,92990,PhD,28,Finance,Chicago
+18,83810,Master,37,HR,Los Angeles
+31,108297,PhD,32,HR,Austin
+68,40223,PhD,17,Sales,Chicago
+64,97237,High School,6,HR,Los Angeles
+67,27597,High School,0,Finance,Austin
+19,90677,High School,32,Finance,New York
+45,27659,Bachelor,0,Finance,Los Angeles
+66,111516,Bachelor,23,Engineering,Austin
+67,99567,High School,3,Finance,Los Angeles
+47,40037,High School,3,Finance,Chicago
+55,71738,Bachelor,17,Engineering,San Francisco
+68,96678,Master,26,Marketing,New York
+21,37109,PhD,31,HR,Chicago
+18,47010,PhD,32,Finance,Chicago
+25,33787,High School,27,HR,Austin
+46,33472,Master,35,Sales,Los Angeles
+56,48383,Bachelor,5,HR,New York
+20,86709,High School,15,Engineering,Chicago
+49,94785,Master,33,HR,Austin
+27,59518,Master,22,HR,New York
+27,78909,Master,23,HR,Los Angeles
+36,43351,Bachelor,12,Marketing,Chicago
+63,94624,Bachelor,17,Marketing,Chicago
+51,78330,PhD,12,Sales,Chicago
+50,40282,PhD,36,Engineering,New York
+40,109866,Master,38,HR,New York
+45,46778,Master,16,HR,New York
+49,49264,Bachelor,14,HR,New York
+67,84675,PhD,17,HR,Austin
+24,30075,Master,22,Marketing,San Francisco
+46,100948,PhD,29,Sales,Austin
+25,73454,PhD,33,Finance,Chicago
+18,53365,Master,3,Engineering,Austin
+20,97766,Bachelor,2,HR,Los Angeles
+41,73200,Master,6,Sales,New York
+40,36002,Master,17,Finance,Los Angeles
+25,38947,PhD,6,Sales,Los Angeles
+64,104222,Master,39,Marketing,Chicago
+54,119840,Bachelor,5,Finance,New York
+20,103610,Master,21,Sales,Los Angeles
+68,77142,Bachelor,0,Marketing,Chicago
+50,81307,Bachelor,3,Sales,New York
+45,29493,PhD,28,Sales,San Francisco
+64,75085,High School,20,Finance,Chicago
+25,59228,High School,25,Marketing,Austin
+51,104676,PhD,13,HR,New York
+52,76875,Master,8,Engineering,Los Angeles
+49,56655,PhD,11,Finance,Los Angeles
+41,68472,Bachelor,5,Marketing,Austin
+31,74437,High School,19,Sales,Austin
+49,74416,PhD,23,Marketing,Los Angeles
+63,84711,Master,26,Engineering,New York
+60,31816,PhD,37,Engineering,Chicago
+33,102175,High School,7,HR,Austin
+21,89307,PhD,0,HR,Austin
+69,71733,PhD,23,Engineering,Austin
+54,36240,High School,6,Finance,San Francisco
+38,117493,Bachelor,18,Finance,New York
+31,96363,Bachelor,21,Sales,New York
+48,57762,High School,34,HR,New York
+65,33259,PhD,29,Sales,New York
+35,75139,High School,28,HR,New York
+24,39849,Bachelor,21,Engineering,Los Angeles
+27,106768,Master,10,Finance,Austin
+24,114709,PhD,19,Finance,Los Angeles
+50,79869,Bachelor,28,Engineering,San Francisco
+40,88095,PhD,33,Sales,Chicago
+38,95910,High School,0,Sales,Austin
+36,111710,Master,30,Marketing,San Francisco
+65,48567,High School,29,HR,Los Angeles
+36,60292,Master,17,Sales,Chicago
+53,99813,PhD,16,Engineering,San Francisco
+46,76631,PhD,37,Sales,Chicago
+35,34885,High School,13,Finance,San Francisco
+19,84659,Master,22,HR,Los Angeles
+18,79306,Master,24,Marketing,Chicago
+64,91314,PhD,14,HR,San Francisco
+22,90087,High School,21,Finance,Los Angeles
+37,54165,Master,2,Finance,Austin
+28,83929,PhD,18,Finance,Los Angeles
+59,92028,Bachelor,33,Finance,Los Angeles
+19,74812,High School,34,Engineering,Austin
+20,75500,Bachelor,0,Marketing,Los Angeles
+40,104151,High School,20,Finance,Austin
+29,83643,PhD,28,Finance,Austin
+37,69900,Master,5,Sales,Austin
+22,67946,Master,36,Marketing,San Francisco
+54,32851,Master,0,HR,Chicago
+55,41288,High School,0,Marketing,San Francisco
+47,97692,PhD,26,Marketing,Austin
+26,92580,Bachelor,20,Marketing,Chicago
+51,32368,PhD,15,Finance,Chicago
+61,110436,Bachelor,39,Finance,Austin
+52,71403,High School,25,Engineering,Chicago
+69,116170,High School,15,HR,Chicago
+39,34168,Bachelor,27,Sales,San Francisco
+61,111497,Bachelor,0,Marketing,Chicago
+41,74879,Bachelor,35,HR,Austin
+34,84871,PhD,9,HR,New York
+27,114388,Bachelor,16,Engineering,New York
+47,57174,High School,22,Sales,New York
+63,117491,High School,6,Marketing,Austin
+40,31581,Master,6,Sales,New York
+49,96853,Bachelor,14,Engineering,San Francisco
+34,89046,PhD,33,Finance,Austin
+67,74678,PhD,3,HR,Austin
+68,51649,PhD,13,Marketing,Austin
+34,113668,Master,13,Finance,Chicago
+31,107325,High School,15,Engineering,Chicago
+26,39567,PhD,6,Sales,Chicago
+57,105404,High School,31,HR,Los Angeles
+19,114906,Master,18,Marketing,San Francisco
+62,86944,Bachelor,1,Finance,Austin
+42,103002,Bachelor,9,Finance,Austin
+56,53803,Bachelor,16,HR,Chicago
+26,43230,PhD,36,Sales,Austin
+39,42862,Bachelor,11,Engineering,Austin
+60,68355,PhD,5,Sales,New York
+63,56259,Master,21,Sales,Austin
+21,112445,Master,31,Sales,Los Angeles
+43,55795,PhD,19,HR,Chicago
+46,33770,High School,0,HR,San Francisco
+62,36093,Bachelor,5,Engineering,San Francisco
+51,71571,Bachelor,18,Sales,New York
+40,25193,Bachelor,17,HR,San Francisco
+54,42569,PhD,5,Engineering,San Francisco
+28,36190,Master,32,Engineering,Chicago
+23,87824,Bachelor,22,Sales,Chicago
+35,67752,Master,22,Marketing,Los Angeles
+38,57327,Bachelor,25,Sales,New York
+59,67070,Bachelor,12,Marketing,San Francisco
+53,110925,PhD,6,Engineering,Los Angeles
+58,65197,High School,14,HR,New York
+55,27261,PhD,26,Finance,San Francisco
+51,118905,Bachelor,25,Engineering,San Francisco
+34,51512,Bachelor,32,HR,Chicago
+54,31716,High School,14,Engineering,Austin
+42,111795,Master,35,Sales,New York
+55,53933,Master,26,Marketing,San Francisco
+29,29378,Bachelor,4,Engineering,New York
+40,65583,Master,1,HR,Los Angeles
+59,110371,Bachelor,32,Sales,Los Angeles
+39,54033,High School,15,Finance,Austin
+38,49000,High School,22,Sales,San Francisco
+44,100868,Bachelor,37,Marketing,Chicago
+48,67604,High School,15,Sales,San Francisco
+23,93336,PhD,13,Finance,New York
+44,98869,PhD,28,HR,Los Angeles
+57,30410,High School,25,Engineering,New York
+51,108375,Bachelor,34,Marketing,Austin
+29,81044,Bachelor,14,Finance,Los Angeles
+62,88315,High School,2,Marketing,Chicago
+24,96344,Master,22,Sales,Los Angeles
+27,31796,PhD,28,Marketing,San Francisco
+62,111716,Master,33,Finance,San Francisco
+34,79245,Bachelor,32,Engineering,Los Angeles
+43,68056,Bachelor,22,Engineering,Austin
+38,42709,Master,6,Marketing,San Francisco
+45,83557,High School,2,HR,San Francisco
+63,42543,Master,31,Marketing,Chicago
+19,62418,Master,30,Sales,Los Angeles
+60,119611,PhD,17,Engineering,San Francisco
+18,41724,PhD,6,Engineering,Austin
+68,28828,Master,0,Engineering,New York
+53,42087,Master,13,HR,Los Angeles
+68,37605,Bachelor,31,HR,Chicago
+43,56337,PhD,5,Finance,San Francisco
+46,30482,PhD,38,Marketing,Austin
+38,90333,Bachelor,9,Marketing,Los Angeles
+28,117541,High School,6,Sales,Austin
+57,113296,PhD,25,Engineering,Austin
+28,75952,PhD,33,HR,Chicago
+53,30463,High School,29,Sales,Los Angeles
+66,95448,PhD,35,Sales,San Francisco
+56,29648,PhD,20,HR,Chicago
+57,58623,High School,16,Marketing,San Francisco
+52,84156,High School,32,Engineering,New York
+51,60634,Master,9,Marketing,Austin
+64,69602,Bachelor,11,Sales,New York
+41,74334,Bachelor,15,Engineering,Austin
+39,93648,High School,31,Finance,Chicago
+22,47054,High School,14,Sales,San Francisco
+50,95028,PhD,26,Marketing,San Francisco
+53,47207,Master,27,Marketing,Chicago
+64,105650,Master,16,Marketing,Los Angeles
+37,106554,High School,1,HR,New York
+36,46386,PhD,35,Sales,New York
+52,108276,PhD,6,Engineering,San Francisco
+69,84518,Bachelor,12,Marketing,San Francisco
+60,77781,Bachelor,14,Marketing,San Francisco
+34,77780,PhD,24,HR,Chicago
+62,86440,Bachelor,22,Engineering,Los Angeles
+60,69199,High School,21,Sales,New York
+51,86035,PhD,25,Finance,Austin
+26,33210,Bachelor,32,HR,Chicago
+43,69363,Master,10,Sales,New York
+19,103279,PhD,9,Finance,Los Angeles
+26,85348,PhD,24,Marketing,Chicago
+26,80284,Master,36,Marketing,New York
+57,97124,High School,37,Engineering,Chicago
+34,93847,Master,23,Finance,New York
+18,47432,PhD,39,Marketing,New York
+42,89089,High School,32,Marketing,Los Angeles
+60,80398,Bachelor,16,Engineering,Austin
+57,28321,Bachelor,23,Sales,Los Angeles
+59,106348,Bachelor,36,Marketing,New York
+42,62383,PhD,1,HR,Chicago
+56,103682,Master,31,HR,Los Angeles
+52,104190,High School,23,Sales,Austin
+20,77893,Bachelor,8,Finance,New York
+67,60820,High School,3,Engineering,Los Angeles
+54,91262,PhD,16,HR,Los Angeles
+61,28760,Bachelor,16,HR,Los Angeles
+61,47190,PhD,29,Sales,Los Angeles
+68,92411,Master,39,Finance,Chicago
+47,48377,PhD,10,Finance,Austin
+55,71737,PhD,20,Sales,Austin
+51,94569,Master,20,HR,New York
+29,63211,High School,17,Engineering,San Francisco
+36,107909,Master,28,HR,Chicago
+54,28744,Master,23,Finance,New York
+61,49995,PhD,9,HR,New York
+66,41977,High School,16,Engineering,Los Angeles
+34,59542,Bachelor,17,Marketing,San Francisco
+27,35651,Master,19,HR,San Francisco
+66,103931,High School,36,Sales,Chicago
+64,41715,Master,17,Marketing,San Francisco
+29,69409,Master,16,Sales,New York
+33,49306,Master,8,Sales,San Francisco
+41,44086,Master,13,Sales,San Francisco
+36,39376,PhD,28,HR,Austin
+25,86350,High School,30,Finance,New York
+48,96425,High School,3,Marketing,San Francisco
+38,61636,High School,17,Engineering,San Francisco
+34,111120,Master,19,Finance,Los Angeles
+40,76649,PhD,8,HR,San Francisco
+54,59610,Master,12,Sales,San Francisco
+33,35058,Master,14,Engineering,Austin
+23,99637,High School,26,Marketing,New York
+25,103033,Master,14,Finance,Chicago
+42,95194,Bachelor,27,Finance,New York
+35,101917,Master,36,Engineering,Los Angeles
+42,89200,Bachelor,18,HR,New York
+29,71619,Master,25,Marketing,San Francisco
+32,42154,PhD,25,Engineering,Los Angeles
+43,44539,PhD,24,Sales,New York
+58,85058,High School,25,Marketing,Los Angeles
+62,87068,Master,25,Finance,Chicago
+43,102313,Bachelor,27,Engineering,New York
+64,55373,Bachelor,17,Finance,San Francisco
+49,58154,Master,31,Finance,Los Angeles
+27,31031,Bachelor,2,Finance,Austin
+33,118533,PhD,1,HR,Los Angeles
+24,96975,Bachelor,32,Finance,Austin
+34,47785,High School,18,Sales,San Francisco
+40,103928,PhD,16,Sales,Chicago
+43,53669,PhD,32,Marketing,Austin
+38,119475,PhD,11,Finance,Chicago
+39,27282,Master,2,Finance,Los Angeles
+24,59624,Master,25,Engineering,San Francisco
+31,73438,PhD,34,HR,Austin
+32,114900,Master,7,Marketing,Los Angeles
+24,92534,Bachelor,35,Finance,New York
+26,56705,Master,6,Engineering,Los Angeles
+68,63244,Master,35,HR,Chicago
+65,99964,PhD,15,Marketing,San Francisco
+25,62437,High School,23,Marketing,San Francisco
+67,102872,High School,0,Finance,Los Angeles
+40,99878,High School,24,Marketing,New York
+46,97982,Bachelor,9,Engineering,Chicago
+35,75583,Master,15,Marketing,Los Angeles
+48,63392,High School,15,Sales,Los Angeles
+47,32461,PhD,7,Engineering,San Francisco
+69,35516,High School,28,HR,Chicago
+56,104285,High School,38,HR,New York
+52,42514,Master,27,Finance,San Francisco
+35,61268,Master,5,Finance,Los Angeles
+59,115486,Master,15,Sales,San Francisco
+56,61788,Bachelor,19,HR,San Francisco
+34,100749,Bachelor,15,HR,Austin
+31,86049,High School,6,HR,San Francisco
+48,87493,Master,13,HR,San Francisco
+41,61027,High School,25,Marketing,Chicago
+52,118547,PhD,25,Engineering,San Francisco
+61,67849,PhD,13,Engineering,New York
+62,42858,Master,6,Sales,Los Angeles
+51,109162,Master,32,Marketing,Chicago
+20,104003,PhD,25,HR,San Francisco
+54,77395,Master,19,HR,New York
+60,64758,Bachelor,2,Finance,Los Angeles
+57,79312,Bachelor,3,Finance,Chicago
+43,93670,Master,25,Sales,New York
+40,107279,PhD,10,HR,San Francisco
+61,40434,High School,1,Sales,Austin
+56,89047,Master,13,Marketing,Austin
+32,72775,Master,29,Engineering,Chicago
+66,100769,High School,11,HR,New York
+21,91677,Master,25,Marketing,Los Angeles
+46,108555,High School,32,HR,New York
+39,110920,PhD,12,Finance,Austin
+42,70734,Bachelor,13,Sales,Chicago
+30,113503,PhD,23,Finance,San Francisco
+35,65603,Bachelor,33,Engineering,New York
+50,101708,High School,25,Finance,Austin
+33,106926,Bachelor,20,HR,Los Angeles
+62,93803,PhD,27,Finance,Chicago
+59,64332,Bachelor,35,HR,San Francisco
+61,116703,High School,39,Engineering,New York
+19,46312,Bachelor,1,Finance,Los Angeles
+52,118376,Master,8,Sales,San Francisco
+59,109526,PhD,22,Sales,Austin
+51,69179,Master,14,Sales,Austin
+47,96442,High School,12,Finance,Los Angeles
+30,65379,Bachelor,22,Finance,Austin
+30,42297,Master,16,Finance,Chicago
+35,27011,Master,1,HR,Los Angeles
+49,69014,Bachelor,19,Engineering,Austin
+49,36738,Bachelor,19,Sales,New York
+52,119333,PhD,2,HR,Austin
+56,72498,Master,11,Sales,Chicago
+63,36120,Master,39,HR,San Francisco
+69,33767,High School,1,Finance,San Francisco
+46,47852,PhD,35,Sales,Austin
+66,104239,High School,13,Finance,San Francisco
+46,25929,Master,15,Sales,Austin
+61,102487,High School,18,Marketing,Chicago
+33,116575,Master,33,HR,San Francisco
+61,42438,Master,5,Marketing,New York
+64,73515,High School,12,HR,Austin
+27,30744,High School,35,Engineering,San Francisco
+47,108820,Bachelor,21,Sales,Chicago
+42,67417,Bachelor,17,Engineering,Chicago
+56,32069,Bachelor,11,Engineering,New York
+37,67359,Master,29,HR,Chicago
+22,44799,High School,39,Marketing,Chicago
+18,118762,PhD,6,Finance,San Francisco
+47,95188,Master,31,HR,Austin
+66,114859,PhD,18,Finance,Los Angeles
+20,32597,High School,5,Engineering,Chicago
+62,72093,Master,19,Finance,Chicago
+31,62226,PhD,26,Marketing,Los Angeles
+47,97127,PhD,36,HR,Chicago
+67,116369,Bachelor,6,Marketing,San Francisco
+21,102362,Bachelor,4,Marketing,San Francisco
+35,51417,Bachelor,10,HR,Los Angeles
+54,43693,Master,14,Marketing,Chicago
+42,104674,High School,2,Sales,Chicago
+65,78161,High School,4,Sales,Austin
+18,27169,Bachelor,22,Sales,Chicago
+63,109092,Bachelor,36,Finance,San Francisco
+32,47052,Bachelor,8,Marketing,New York
+26,96849,PhD,14,HR,New York
+32,98851,Bachelor,2,HR,New York
+66,33036,PhD,28,Finance,New York
+41,56778,High School,5,HR,Chicago
+21,52734,Master,16,Sales,Chicago
+29,48173,Master,25,Marketing,Austin
+54,55403,Master,20,HR,Chicago
+54,91321,Master,7,HR,New York
+60,96675,PhD,20,Engineering,Los Angeles
+23,31344,PhD,10,Engineering,Los Angeles
+56,43800,Bachelor,37,Engineering,San Francisco
+63,50372,PhD,7,Marketing,San Francisco
+41,86516,Bachelor,23,Sales,Chicago
+28,45538,Bachelor,34,Sales,Los Angeles
+30,88918,Master,13,Sales,New York
+51,39973,PhD,13,Marketing,New York
+42,96155,PhD,9,Marketing,New York
+24,84500,Bachelor,11,Engineering,Chicago
+69,61575,Bachelor,37,HR,Chicago
+21,67261,High School,33,Finance,Austin
+25,52716,High School,9,Finance,New York
+37,28236,Bachelor,16,HR,New York
+46,40848,High School,16,Engineering,Chicago
+68,27352,High School,2,HR,Chicago
+62,26932,Bachelor,30,HR,Austin
+63,101449,Bachelor,0,Finance,Austin
+27,33556,PhD,11,Engineering,San Francisco
+60,111836,Bachelor,38,Marketing,Los Angeles
+51,30498,Bachelor,3,Finance,New York
+43,101118,Master,12,Marketing,New York
+58,75098,PhD,33,Engineering,Austin
+66,89386,PhD,20,HR,Austin
+20,34569,PhD,21,Sales,San Francisco
+23,81882,Master,3,Sales,Los Angeles
+22,95393,Bachelor,17,Engineering,San Francisco
+22,25340,PhD,4,Sales,Los Angeles
+64,68949,PhD,18,Marketing,New York
+40,107302,High School,1,Sales,San Francisco
+66,87443,PhD,11,Engineering,Austin
+26,116668,Bachelor,16,Engineering,San Francisco
+52,99027,Bachelor,9,Marketing,San Francisco
+37,25138,High School,33,Sales,New York
+66,25358,PhD,5,Sales,Austin
+59,100250,PhD,7,HR,Austin
+52,110376,PhD,10,Finance,Chicago
+67,55654,Master,11,Engineering,Chicago
+35,50879,PhD,8,HR,Chicago
+34,106532,Bachelor,1,Engineering,New York
+41,80778,Bachelor,7,HR,San Francisco
+20,62772,Master,10,Finance,Austin
+49,83478,Master,35,HR,Austin
+52,89353,PhD,9,Engineering,San Francisco
+55,51762,High School,20,Sales,Austin
+30,38283,Master,19,Engineering,San Francisco
+64,88922,Master,7,Marketing,New York
+42,64420,PhD,35,Marketing,New York
+26,80568,PhD,28,Marketing,New York
+21,110090,Master,11,Marketing,San Francisco
+31,45219,High School,13,Finance,San Francisco
+54,82169,Master,20,Sales,Los Angeles
+51,99965,PhD,21,Sales,Austin
+28,71840,PhD,20,Engineering,Austin
+58,69695,Master,29,HR,Los Angeles
+20,109754,High School,38,Engineering,Los Angeles
+45,102988,Master,19,Engineering,New York
+46,83342,Master,23,Engineering,Los Angeles
+26,43951,PhD,22,Engineering,San Francisco
+20,26307,High School,6,Sales,Chicago
+42,105388,Bachelor,8,HR,San Francisco
+51,115768,High School,0,Engineering,Los Angeles
+29,60428,Master,25,Sales,Austin
+59,117021,Master,37,Engineering,San Francisco
+26,100774,Master,37,Marketing,Austin
+32,63975,High School,21,Engineering,San Francisco
+57,26140,PhD,9,Engineering,Austin
+42,49842,Master,5,Finance,San Francisco
+22,51421,Master,16,Marketing,Austin
+28,26708,High School,37,HR,Chicago
+51,28630,Bachelor,23,Engineering,New York
+41,44595,Bachelor,9,HR,San Francisco
+32,101021,PhD,7,Marketing,Chicago
+55,53308,PhD,20,Engineering,New York
+25,69789,Master,5,Finance,San Francisco
+22,80690,High School,20,Sales,Chicago
+65,51086,Master,38,Finance,Chicago
+43,41859,PhD,23,Finance,Chicago
+35,32684,High School,32,Sales,Los Angeles
+23,116088,High School,17,Sales,Austin
+54,26207,PhD,27,Sales,New York
+65,71099,Bachelor,31,Engineering,Austin
+30,92496,Bachelor,11,HR,Austin
+45,91093,High School,26,HR,Austin
+22,54689,Master,9,Sales,Chicago
+30,73651,Bachelor,31,Finance,Austin
+34,38893,Master,25,Marketing,Los Angeles
+67,91418,Bachelor,24,Sales,San Francisco
+57,85011,Bachelor,10,Finance,Chicago
+62,63635,Master,22,Finance,New York
+49,81115,PhD,33,Engineering,San Francisco
+46,103405,Bachelor,39,Engineering,San Francisco
+68,97702,Bachelor,22,HR,San Francisco
+20,103518,Master,28,HR,Austin
+57,97805,PhD,30,Marketing,Austin
+51,83954,Bachelor,6,Marketing,Chicago
+57,53064,Bachelor,39,Marketing,Austin
+44,104063,PhD,32,Marketing,Austin
+30,27454,Bachelor,20,Finance,Austin
+62,45878,PhD,1,Finance,Chicago
+50,76098,PhD,17,HR,Chicago
+23,87154,Master,32,Engineering,Los Angeles
+41,37991,High School,36,Engineering,Los Angeles
+36,93344,PhD,33,Sales,Los Angeles
+33,61593,Master,19,Finance,Los Angeles
+57,61304,High School,34,Marketing,San Francisco
+45,55386,Bachelor,17,Marketing,San Francisco
+50,80220,High School,23,Sales,Los Angeles
+65,94338,PhD,7,Engineering,Los Angeles
+58,119289,PhD,29,Marketing,New York
+30,46083,PhD,9,Engineering,San Francisco
+60,43354,PhD,22,Sales,New York
+62,47190,PhD,10,Engineering,New York
+42,31142,Master,1,Engineering,Austin
+59,53398,PhD,25,Engineering,Chicago
+53,76971,Master,35,Marketing,San Francisco
+44,66862,Bachelor,32,HR,Los Angeles
+55,78410,PhD,12,Finance,Los Angeles
+24,44503,PhD,39,Engineering,Chicago
+22,73456,High School,24,Engineering,San Francisco
+60,107035,Bachelor,3,Engineering,Los Angeles
+62,33016,PhD,18,HR,Los Angeles
+68,27384,PhD,17,Sales,Austin
+48,87320,Bachelor,36,Marketing,New York
+40,40072,Master,29,HR,Los Angeles
+59,105018,PhD,18,Engineering,San Francisco
+27,65510,High School,22,HR,Chicago
+49,73933,PhD,15,HR,Austin
+60,46826,High School,0,HR,San Francisco
+47,93026,High School,11,Sales,Austin
+56,50518,PhD,23,Finance,New York
+48,49045,PhD,33,Marketing,Los Angeles
+35,75876,High School,7,Sales,San Francisco
+53,117446,Bachelor,17,Sales,Chicago
+19,115102,Bachelor,4,Finance,New York
+31,76919,PhD,25,Sales,New York
+30,52103,Master,29,HR,Austin
+46,61188,Bachelor,12,HR,New York
+29,30845,PhD,18,Engineering,San Francisco
+56,111698,Bachelor,28,Sales,Austin
+19,61674,Master,2,Engineering,New York
+49,44337,PhD,25,Marketing,Chicago
+30,47313,Master,39,HR,San Francisco
+63,51943,PhD,11,Marketing,Chicago
+44,102949,Master,1,Finance,Chicago
+66,25276,Bachelor,10,HR,Austin
+58,76151,Bachelor,27,Marketing,Los Angeles
+34,42611,Master,17,Finance,Austin
+57,36944,Master,12,Marketing,San Francisco
+48,77887,Master,36,Finance,San Francisco
+51,106442,PhD,21,Finance,Austin
+41,74847,Bachelor,11,HR,Los Angeles
+62,83653,PhD,1,Engineering,Austin
+52,111072,Bachelor,36,Finance,San Francisco
+65,81622,High School,6,Finance,Los Angeles
+23,52810,PhD,25,HR,San Francisco
+36,102842,Bachelor,25,Engineering,Los Angeles
+47,35503,Bachelor,23,Sales,Los Angeles
+24,109761,PhD,11,Sales,Austin
+27,61976,PhD,15,Engineering,Austin
+58,36590,Bachelor,22,Marketing,Austin
+49,35886,PhD,39,HR,Los Angeles
+51,37866,Master,8,Engineering,Los Angeles
+45,91624,PhD,31,Sales,San Francisco
+32,93899,PhD,14,Finance,Chicago
+47,57792,PhD,36,Sales,Austin
+54,34764,Bachelor,12,Finance,San Francisco
+46,111156,Master,4,HR,San Francisco
+39,67727,High School,10,Finance,New York
+21,103471,High School,9,Engineering,Austin
+37,33068,Master,12,Finance,San Francisco
+49,32295,Master,14,Marketing,New York
+53,66160,Master,6,Engineering,Austin
+67,36390,Bachelor,39,HR,Los Angeles
+21,45131,High School,27,Engineering,New York
+44,119754,Master,31,Marketing,Los Angeles
+34,100969,Bachelor,34,HR,Chicago
+29,40038,High School,14,Sales,Chicago
+39,77327,PhD,35,Marketing,Chicago
+34,118718,Bachelor,20,HR,Chicago
+27,102064,High School,5,Finance,San Francisco
+18,46281,Bachelor,0,Engineering,Chicago
+39,79189,High School,3,HR,San Francisco
+43,73511,High School,10,Engineering,San Francisco
+35,33605,PhD,25,Finance,Austin
+67,26381,Bachelor,36,HR,San Francisco
+31,91634,Master,22,Sales,San Francisco
+64,44810,PhD,28,Marketing,Chicago
+46,49322,PhD,20,HR,San Francisco
+29,66869,High School,26,Finance,Los Angeles
+53,57955,Master,38,HR,Chicago
+52,86388,Bachelor,39,Engineering,New York
+69,35207,Master,12,HR,Chicago
+29,112329,Master,22,Sales,San Francisco
+24,92628,Master,15,HR,Los Angeles
+46,53220,Master,29,Marketing,Chicago
+28,109050,Master,3,HR,Los Angeles
+50,99085,High School,39,Engineering,New York
+23,47031,High School,15,HR,New York
+64,95721,PhD,30,Sales,Austin
+32,105807,High School,24,Finance,Austin
+49,96312,PhD,11,HR,Chicago
+68,84766,PhD,25,HR,Austin
+28,37449,Bachelor,36,Marketing,Los Angeles
+40,114833,Master,32,Sales,Austin
+43,81699,High School,27,Finance,Los Angeles
+51,106253,Bachelor,8,Engineering,Austin
+63,71092,High School,11,HR,Austin
+51,88671,PhD,4,Finance,Austin
+46,35350,High School,27,Engineering,San Francisco
+21,93487,Master,34,Sales,San Francisco
+34,42622,PhD,4,Sales,Austin
+52,95263,PhD,33,Finance,Los Angeles
+30,78117,Bachelor,33,Engineering,Chicago
+58,83394,Master,12,Sales,New York
+56,48782,PhD,38,Finance,San Francisco
+32,53454,Master,13,Sales,Austin
+46,92904,High School,10,Sales,New York
+46,40592,Master,37,Sales,San Francisco
+28,47173,PhD,3,Marketing,Chicago
+69,58204,Bachelor,32,Engineering,Los Angeles
+49,60596,PhD,6,Finance,Austin
+19,59324,Master,7,Finance,Chicago
+64,86202,Master,36,Engineering,San Francisco
+31,114400,PhD,9,Engineering,Austin
+37,55750,Master,14,Engineering,New York
+39,101112,High School,37,Engineering,Los Angeles
+28,41566,PhD,14,HR,San Francisco
+44,32190,Bachelor,4,Finance,Los Angeles
+20,113607,PhD,28,HR,Austin
+34,63333,High School,18,Sales,Chicago
+61,105905,High School,9,Sales,Los Angeles
+45,114571,High School,11,Finance,New York
+46,26589,High School,3,Sales,San Francisco
+38,50235,High School,30,Engineering,New York
+64,25159,Bachelor,17,HR,Los Angeles
+33,37145,Master,15,Engineering,Chicago
+54,105909,High School,39,Sales,Chicago
+37,56921,High School,35,HR,New York
+23,41237,PhD,24,Engineering,Austin
+36,33244,Bachelor,22,Finance,Austin
+22,39743,Bachelor,11,Engineering,Chicago
+20,71101,Master,33,Sales,New York
+18,109227,Bachelor,35,HR,New York
+55,81378,PhD,36,Finance,New York
+32,96126,PhD,2,HR,Los Angeles
+51,81071,Master,8,Finance,Austin
+52,96121,PhD,17,HR,Austin
+66,99763,High School,34,Sales,Los Angeles
+42,118814,High School,33,Finance,San Francisco
+41,37237,PhD,13,Marketing,Los Angeles
+29,40649,Master,3,HR,New York
+35,62713,Bachelor,28,HR,Los Angeles
+32,98463,Master,14,Engineering,New York
+61,70409,Bachelor,27,Finance,Chicago
+33,73766,PhD,15,Marketing,New York
+44,71154,PhD,11,Sales,Austin
+25,32016,High School,4,Engineering,Los Angeles
+63,104563,Bachelor,33,Marketing,New York
+42,73688,Master,0,Finance,San Francisco
+34,114678,PhD,38,Marketing,Chicago
+46,79238,Master,31,HR,San Francisco
+25,83608,High School,25,HR,San Francisco
+32,114081,Bachelor,16,Engineering,San Francisco
+44,56897,Bachelor,26,Finance,Chicago
+63,75961,PhD,23,Finance,Chicago
+67,93703,Bachelor,34,Marketing,Chicago
+69,69757,PhD,38,Engineering,Chicago
+24,51917,High School,25,Finance,San Francisco
+20,47736,Bachelor,37,HR,Austin
